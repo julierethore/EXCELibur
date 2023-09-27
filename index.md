@@ -1,4 +1,4 @@
-<body background-color="#0B3626">
+<body background-color="#0B3626"> </body>
 
 <center> <font color="#FFFFFF" size="200px"> this is the index </font> </center>
 
