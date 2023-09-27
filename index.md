@@ -1,7 +1,7 @@
 <head>
  <style>
       body {
-        background-color: #0B3626;
+        background-color: #AAC8B2;
         link: "white"
         vlink: "black"
       }
@@ -11,7 +11,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital@1&display=swap" rel="stylesheet">
 </head>
 
-<center> <font color="#FFFFFF" size="200px" family="Merriweather"> this is the index </font> </center>
+<center> <font color="#FFFFFF" size="200px" family="Merriweather:ital@1"> this is the index </font> </center>
 
 
 [cliquez ici](essai1.md)
