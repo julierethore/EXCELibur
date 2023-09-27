@@ -1,6 +1,6 @@
-<style> <body background-color: #6295A8> </body> </style>
+<style> <body background-color: #082A1D> </body> </style>
     
-<center> <font color="green" size="150px"> this is the index </font> </center>
+<center> <font color="#000000" size="200px"> this is the index </font> </center>
 
 
 [cliquez ici](essai1.md)
