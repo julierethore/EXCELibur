@@ -1,4 +1,4 @@
-<head>
+<html><head>
  <style>
       body {
         background-color: #082A1D;
@@ -8,7 +8,8 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital@1&display=swap" rel="stylesheet">
 </head>
-
+<body>
+ 
 <center> <font color="#FFFFFF" size="200px" family="Merriweather:ital@1"> this is the index </font> </center>
 
 
@@ -92,3 +93,5 @@ pkojihu
 >>> 3
 > 1
 >> 2
+
+</body> </html>
