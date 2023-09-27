@@ -7,7 +7,7 @@
 </head>
 <body>
  
-<center> <font color="#FFFFFF" size="200px" family="Merriweather:ital@1"> this is the index </font> </center>
+<center> <font color="#FFFFFF" size="200px"> this is the index </font> </center>
 
 
 [cliquez ici](essai1.md)
