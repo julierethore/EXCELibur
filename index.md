@@ -1,14 +1,21 @@
 <html><head>
  <style>
       body {
-        background-color: 0b2616;
+        background-color: #0b2616;
+      }
+      h2 {
+        background-color: #8ebf42;
+      }
+      p {
+        background-color: #1c87c9;
       }
     </style>
 </head>
 <body>
  
-<center> <font color="#FFFFFF" size="200px"> this is the index </font> </center>
+<center> <h2> <font color="#FFFFFF" size="200px"> this is the index </font> </h2> </center>
 
+<p> Il existe plusieurs types de polices numériques. Certaines polices sont principalement destinées à l’impression et à la conception graphique. Elles ont tendance à être grandes et ne conviennent pas aux sites web, mais sont parfaites pour créer des graphiques. Il existe également des polices sûres pour le web (web safe), que l’on trouve sur la majorité des machines.</p>
 
 [cliquez ici](essai1.md)
 ---------
