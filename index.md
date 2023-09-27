@@ -2,8 +2,6 @@
  <style>
       body {
         background-color: #082A1D;
-        link: "white";
-        vlink: "black";
       }
     </style>
  <link rel="preconnect" href="https://fonts.googleapis.com">
