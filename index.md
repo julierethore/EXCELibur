@@ -1,6 +1,11 @@
-<body background-color="#0B3626"> </body>
+<head>
+ <body background-color="#0B3626"> </body>
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital@1&display=swap" rel="stylesheet">
+</head>
 
-<center> <font color="#FFFFFF" size="200px"> this is the index </font> </center>
+<center> <font color="#FFFFFF" size="200px" family="Merriweather"> this is the index </font> </center>
 
 
 [cliquez ici](essai1.md)
