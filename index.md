@@ -1,4 +1,4 @@
-<html><head>
+<head>
  <style>
       body {
         background-color: #1C1C1C;
@@ -11,7 +11,6 @@
       }
     </style>
 </head>
-<body>
 
 <div id="my_menu" align="right">
 	[HOME](index.md) | 
@@ -104,5 +103,3 @@ pkojihu
 >>> 3
 > 1
 >> 2
-
-</body> </html>
