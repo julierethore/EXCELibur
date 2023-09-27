@@ -1,4 +1,5 @@
-# this is the index
+<font color="green"> this is the index </font>
+
 [cliquez ici](essai1.md)
 ---------
 [lien vers page1](dossier/page1.md)
@@ -8,6 +9,12 @@
 ~~~
 _abcdef_
 ~~~
+
+<ul>
+  <li>Bidouilleuses</li>
+  <li>Concepteurs</li>
+  <li>Constructrices</li>
+</ul>
 
 :joy:
 🐱
