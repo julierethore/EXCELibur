@@ -1,9 +1,9 @@
 <head>
  <style>
       body {
-        background-color: #AAC8B2;
-        link: "white"
-        vlink: "black"
+        background-color: #082A1D;
+        link: "white";
+        vlink: "black";
       }
     </style>
  <link rel="preconnect" href="https://fonts.googleapis.com">
