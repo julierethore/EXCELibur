@@ -1,6 +1,4 @@
-<p style="text-align:center">
-  <font color="green"> this is the index </font>
-</p>
+<center> <font color="green"> this is the index </font> </center>
 
 
 [cliquez ici](essai1.md)
