@@ -1,3 +1,9 @@
+<style>
+      body {
+        background-color: #6295A8;
+      }
+    </style>
+    
 <center> <font color="green" size="150px"> this is the index </font> </center>
 
 
