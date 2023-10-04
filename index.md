@@ -2,12 +2,11 @@
 
 <h2>Plan du site</h2>
 
-1. [Premiers pas](premiers-pas.md) ✔️
-2. [Tests logiques](options-avancees.md) ✔️
-3. [Mise en forme conditionnelle](mise-en-forme-conditionnelle.md) ✔️
-4. ~~Graphiques~~ 🚫 (non disponible)
-5. ~~Tableau croisé dynamique~~ 🚫 (non disponible)
-6. [Autres fonctions](autres-fonctions.md) ✔️
+1. <a href="premiers-pas" target="_self">Premiers pas</a>
+2. <a href="options-avancees" target="_self">Tests logiques</a>
+3. <a href="mise-en-forme-conditionnelle" target="_self">Mise en forme conditionnelle</a>
+4. <s>Graphiques</s> (non disponible)
+5. <s>Tableau croisé dynamique</s> (non disponible)
 
 <h2>Késako ?</h2>
 
@@ -38,6 +37,16 @@ _abcdef_
         Tables ✔️
         Code and Syntax highlighting ✔️
         Horizontal rules ✔️
+
+<hr/>
+
+1. [Premiers pas](premiers-pas.md) ✔️
+2. [Tests logiques](options-avancees.md) ✔️
+3. [Mise en forme conditionnelle](mise-en-forme-conditionnelle.md) ✔️
+4. ~~Graphiques~~ 🚫 (non disponible)
+5. ~~Tableau croisé dynamique~~ 🚫 (non disponible)
+6. [Autres fonctions](autres-fonctions.md) ✔️
+
 
 <ul>
   <li>Bidouilleuses</li>
