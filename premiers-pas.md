@@ -73,8 +73,8 @@ On peut orienter le texte dans différentes direction, et paramétrer un retour 
 
 <p>La partie <i>Nombre</i> permet de configurer le format de nombre : ci-dessous, la cellule sélectionnée contient seulement « 1969 » et ce nombre s'affichera différemment en fonction du format choisi.</p>
 
-<center> <img src="images/nombre1.jpg" alt="<- ,OO" /> </center> <br>
-<p> <img align=left src="images/nombre.jpg" alt="Nombre" /> 
+<center> <img align=left src="images/nombre.jpg" alt="Nombre" /> </center>
+<p> <img src="images/nombre1.jpg" alt="<- ,OO" /> 
   On peut ajuster la quantité de nombres après la virgule à afficher. Par exemple, si on entre dans une cellule « =10/3 », elle s'affiche normalement « 3,3333333 », mais on peut la paramétrer pour qu'elle affiche seulement deux chiffres après la virgule : « 3,33 ». </p>
 
 ------
