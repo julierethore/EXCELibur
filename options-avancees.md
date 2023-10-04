@@ -70,7 +70,9 @@
 =SI(A1>0;"Positif";SI(A1=0;"Zéro";"Négatif"))
 ~~~
 
--------
+<br/
+<hr/>
+<br/>
 
 <center> <a href="premiers-pas.md" target="self" title="Premiers pas"><< Premiers pas - Page précédente</a> << • • • >> <a href="mise-en-forme-conditionnelle.md" target="self" title="Mise en forme conditionnelle">Page suivante - Mise en forme conditionnelle >></a> </center>
 
