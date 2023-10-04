@@ -4,7 +4,7 @@
 
 <p>Elle permet d'effectuer un test logique. Si le test est vérifié, la cellule affichera une valeur prédéfinie ; si le test échoue, la cellule affichera une autre valeur.</p>
 
-> <strong>=SI(</strong> test logique ; valeur si VRAI ; valeur si FAUX )
+> **=SI(** test logique ; valeur si VRAI ; valeur si FAUX )
 
 <center> <img src="images/fonction_si.JPG" alt="Exemple 1" /> </center>
 
@@ -23,8 +23,8 @@
 
 <p>Ces fonctions renvoient "VRAI" ou "FAUX" selon les conditions remplies. Pour la fonction ET, toutes les conditions doivent être remplies pour valider le test. Pour la fonction OU, une seule des conditions est nécessaire.</p>
 
-> <strong>=ET(</strong> condition 1 ; condition 2 ; etc. ) <br>
-> <strong>=OU(</strong> condition 1 ; condition 2 ; etc. )
+> **=ET(** condition 1 ; condition 2 ; etc. ) <br>
+> **=OU(** condition 1 ; condition 2 ; etc. )
 
 <center> <img src="images/fonction_etou.JPG" alt="Exemple 2" /> </center>
 
@@ -45,8 +45,8 @@
 
 <p>On peut imbriquer dans une fonction SI des formules ET/OU afin de créer des tests plus complexes qui dépendent d'un plus grand nombre de conditions. Ainsi, on utilise la vérification de conditions en "VRAI" ou "FAUX" des fonctions ET/OU pour programmer une fonction SI adaptée.</p>
 
-> =SI(ET( condition 1 ; condition 2 ; etc. ) ; valeur si tout est VRAI ; valeur si 1 FAUX ) <br>
-> =SI(OU( condition 1 ; condition 2 ; etc. ) ; valeur si 1 VRAI ; valeur si tout est FAUX )
+> =SI(ET( condition 1 ; condition 2 ; etc. ) ; valeur si **tout est VRAI** ; valeur si **1 FAUX** ) <br>
+> =SI(OU( condition 1 ; condition 2 ; etc. ) ; valeur si **1 VRAI** ; valeur si **tout est FAUX** )
 
 <p>Dans l'exemple 1, si on veut que les clients ayant rempli **toutes** les conditions aient une réduction de 25% sur leur commande en colonne D, on entrera la formule suivante : </p>
 ~~~
@@ -59,7 +59,7 @@
 
 <p>On peut aussi imbriquer une fonction SI dans une fonction SI pour que le test logique ait trois possibilités de résultats ou plus.</p>
 
-> =SI( test logique X ; valeur 1 si VRAI ; SI( test logique Y ; valeur 2 si VRAI ; valeur 3 si FAUX ))
+> =SI( test logique X ; **valeur 1** si VRAI ; SI( test logique Y ; **valeur 2** si VRAI ; **valeur 3** si FAUX ))
 
 <p>Dans l'exemple 2, pour vérifier si les cellules de la colonne A sont positives, négatives, ou égales à zéro, on entrera dans la première cellule de la colonne B : </p>
 ~~~
