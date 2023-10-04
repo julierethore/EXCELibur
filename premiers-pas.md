@@ -110,5 +110,5 @@ Plus d'informations [ici](options-avancees). </p>
 
 ----------
 
-[<< Retour à l'index - Page précédente](index.md) ••• [Page suivante - Options avancées >>](options-avancees.md)
+<center> <a href="index.md" target="self" title="Retour à l'index"><< Retour à l'index - Page précédente</a> • • • <a href="options-avancees" target="self" title="Tests logiques">Page suivante - Tests logiques >></a> </center>
 
