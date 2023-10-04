@@ -23,15 +23,25 @@ Formule | Résultat
 
 <p>Une fois la formule entrée dans une cellule, on peut la <b>tirer</b> en cliquant sur le carré en bas à gauche de la cellule pour appliquer la formule sur toute une colonne/ligne. La formule sera répétée automatiquement, mais les cellules concernées par le calcul vont changer en fonction de l'incrémentation.<br>
 Par exemple, si en D1 on a la formule suivante :</p>
-> =A1+B1-C1
+~~~
+=A1+B1-C1
+~~~
 <p>Alors en tirant la formule sur toute la colonne D, on aura en D7 :</p>
-> =A7+B7-C7
+~~~
+=A7+B7-C7
+~~~
 <p>Par ailleurs, si on tire la formule également sur la colonne E, on aura en E7 : </p>
-> =B7+C7-D7
+~~~
+=B7+C7-D7
+~~~
 <p>Car le décalage s'applique à la fois aux lignes et au colonnes. Pour « fixer » la colonne ou la ligne dans une formule, il faut la précéder d'un signe « <b>$</b> » : </p>
-> =$A1+$B1-$C1
+~~~
+=$A1+$B1-$C1
+~~~
 <p>La formule ci-dessus incrémentera les lignes mais ne sortira pas des colonnes A, B et C.</p>
-> =$A$1+B1
+~~~
+=$A$1+B1
+~~~
 <p>Qu'elle soit tirée horizontalement ou verticalement, cette formule calculera toujours avec la valeur de la cellule A1.</p>
 
 
