@@ -1,4 +1,4 @@
-<h1> Options avancées : tests logiques </h1>
+<h1> Tests logiques </h1>
 
 <h2> La fonction =SI( </h2>
 
@@ -72,7 +72,7 @@
 
 -------
 
-[<< Premiers pas - Page précédente](premiers-pas.md) ••• [Page suivante - Autres >>](autres-fonctions.md)
+<center> <a href="premiers-pas.md" target="self" title="Premiers pas"><< Premiers pas - Page précédente</a> << • • • >> <a href="mise-en-forme-conditionnelle.md" target="self" title="Mise en forme conditionnelle">Page suivante - Mise en forme conditionnelle >></a> </center>
 
 
 
