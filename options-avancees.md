@@ -1,4 +1,4 @@
-<h1> Tests logiques </h1>
+<h1> Les tests logiques </h1>
 
 <h2> La fonction =SI( </h2>
 
