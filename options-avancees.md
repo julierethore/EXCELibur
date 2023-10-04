@@ -6,6 +6,9 @@
 
 > **=SI(** test logique ; valeur si VRAI ; valeur si FAUX )
 
+<br>
+<br>
+
 <center> <img src="images/fonction_si.JPG" alt="Exemple 1" /> </center>
 
 <center> <i>Exemple 1</i> </center>
