@@ -1,9 +1,9 @@
 <center> <font color="#34623f" size="500px"> <b> TUTOS EXCEL </b> </font> </center>
 
 
-* [Premiers pas](wiki/bases.md)
-* [Outils avancés](wiki/avance.md)
-* [Autres informations](essai1.md)
+* [Premiers pas](premiers-pas.md)
+* [Outils avancés](options-avancees.md)
+* [Autres informations](autres-fonctions.md)
 
 
 [cliquez ici](/wiki/bases.md)
