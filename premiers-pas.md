@@ -1,6 +1,6 @@
 <h2>Quelques formulations basiques</h2> 
 
-<table align="center">
+<center> <table>
   <tbody>
     <tr>
       <td align="center"> <code>A:A</code></td>
@@ -51,7 +51,7 @@
       <td> <p> Affiche « =E7/E2 » en texte dans la cellule sans produire le calcul</p> </td>
     </tr>
   </tbody>
-</table>
+</table> </center>
 
 <p>Une fois la formule entrée dans une cellule, on peut la <b>tirer</b> en cliquant sur le carré en bas à gauche de la cellule pour appliquer la formule sur toute une colonne/ligne. La formule sera répétée automatiquement, mais les cellules concernées par le calcul vont changer en fonction de l'incrémentation.</p>
 <p>Par exemple, si en D1 on a la formule suivante :</p>
@@ -105,7 +105,7 @@ On peut orienter le texte dans différentes direction, et paramétrer un retour 
 <br>
 <hr />
 
-<img align="center" src="images/mise_en_forme_conditionnelle.jpg" alt="Mise en forme conditionnelle" />
+<center> <img src="images/mise_en_forme_conditionnelle.jpg" alt="Mise en forme conditionnelle" /> </center>
 
 <p><b>La mise en forme conditionnelle</b> permet de mettre en évidence les différences de valeurs dans un tableau. Il est important de bien sélectionner la plage sur laquelle s'appliquera la mise en forme avant de la paramétrer. <br>
 La plus facile d’utilisation est celle des nuances de couleurs, qui va par exemple colorer les plus petites valeurs en rouge et les plus grandes en vert. Dans « <b>Gérer les règles</b> », on peut personnaliser des règles de mise en forme, notamment pour les cellules contenant du texte. <br>
