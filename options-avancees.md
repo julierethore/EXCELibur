@@ -1,8 +1,6 @@
 <h1> Options avancées : tests logiques </h1>
 
-<dialog open>
-  <p>Salutations, à tous et à toutes !</p>
-</dialog>
+--------
 
 <h2> La fonction =SI( </h2>
 
