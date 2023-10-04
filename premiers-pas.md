@@ -106,7 +106,7 @@ Plus d'informations [ici](options-avancees). </p>
 <p>Dans « <b>Tri personnalisé</b> », on peut paramétrer les différents niveaux de tri, utiles si certaines valeurs sont identiques dans plusieurs cellules de la même colonne. On peut choisir la colonne, le critère et l’ordre selon lesquels trier le tableau (ci-dessus : tri selon la colonne B, chronologiquement, par ordre croissant).</p>
 <p>Pour « <b>Filtrer</b> », il faut sélectionner les colonnes concernées : sur cet exemple, on voit que les colonnes C, D et E sont en foncées en vert, ce qui signifie qu’elles ont été sélectionnées dans leur totalité. En filtrant, un petit curseur va apparaître dans les cellules C1, D1 et E1 : il permet l’affichage d’une liste déroulante des possibilités de filtrage. </p>
 
-> *Remarque :* un tri modifie l’ordre des cellules, et un filtre dissimule des lignes sans les supprimer.
+> *Remarque* : un tri modifie l’ordre des cellules, et un filtre dissimule des lignes sans les supprimer.
 
 ----------
 
