@@ -2,8 +2,8 @@
   
 <script type="text/javascript">
 // <![CDATA[
-var colour="#FFFFFF";
-var sparkles=120;
+var colour="#000000";
+var sparkles=150;
 
 /****************************
 *  Tinkerbell Magic Sparkle *
@@ -171,3 +171,4 @@ function createDiv(height, width) {
 }
 // ]]>
 </script>
+</body>
