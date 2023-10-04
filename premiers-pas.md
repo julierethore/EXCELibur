@@ -118,14 +118,14 @@ On peut orienter le texte dans différentes direction, et paramétrer un retour 
 
 <h3>Trier et filtrer</h3> 
 
-<center> <img width=800 src="images/selection_filtre.jpg" alt="Sélection filtre" /> </center>
+<center> <img width=800 src="images/tri.jpg" alt="Tri personnalisé" /> </center>
 
 <p>Pour trier un tableau, bien sélectionner toutes les cellules concernées, afin qu’une colonne ne soit pas triée toute seule sans être accompagnée du reste des informations de chaque ligne. Sur cet exemple, la sélection de cellules est grisée et bordée de vert, et les lignes et colonnes concernées sont foncées.</p>
 
-<center> <img width=800 src="images/tri.jpg" alt="Tri personnalisé" /> </center>
+<center> <img width=800 src="images/selection_filtre.jpg" alt="Sélection filtre" /> </center>
 
 <p>Dans « <b>Tri personnalisé</b> », on peut paramétrer les différents niveaux de tri, utiles si certaines valeurs sont identiques dans plusieurs cellules de la même colonne. On peut choisir la colonne, le critère et l’ordre selon lesquels trier le tableau (ci-dessus : tri selon la colonne B, chronologiquement, par ordre croissant).</p>
-<p>Pour « <b>Filtrer</b> », il faut sélectionner les colonnes concernées : sur cet exemple, on voit que les colonnes C, D et E sont foncées en vert, ce qui signifie qu’elles ont été sélectionnées dans leur totalité. En filtrant, un petit curseur va apparaître dans les cellules C1, D1 et E1 : il permet l’affichage d’une liste déroulante des possibilités de filtrage. </p>
+<p>Pour « <b>Filtrer</b> », il faut sélectionner les colonnes concernées : sur cet exemple, on voit que les colonnes B, C, D et E sont foncées en vert, ce qui signifie qu’elles ont été sélectionnées dans leur totalité. En filtrant, un petit curseur va apparaître dans les cellules B1, C1, D1 et E1 : il permet l’affichage d’une liste déroulante des possibilités de filtrage. </p>
 
 <blockquote> <i>Remarque</i> : un tri modifie l’ordre des cellules, et un filtre dissimule des lignes sans les supprimer. </blockquote>
 
