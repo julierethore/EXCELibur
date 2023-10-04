@@ -100,17 +100,18 @@ On peut orienter le texte dans différentes direction, et paramétrer un retour 
 
 <center> <img width=200 src="images/nombre.jpg" alt="Nombre" /> </center> <br>
 <p> <img align=left width=200 src="images/nombre1.jpg" alt="<- ,OO" /> 
-  On peut ajuster la quantité de nombres après la virgule à afficher. Par exemple, si on entre dans une cellule « =10/3 », elle s'affiche normalement « 3,3333333 », mais on peut la paramétrer pour qu'elle affiche seulement deux chiffres après la virgule : « 3,33 ». </p> <br>
+  On peut ajuster la quantité de nombres après la virgule à afficher. <br>
+  Par exemple, si on entre dans une cellule « =10/3 », elle s'affiche normalement « 3,3333333 », mais on peut la paramétrer pour qu'elle affiche seulement deux chiffres après la virgule : « 3,33 ». </p> <br>
 
 <br>
 <hr />
 
 <center> <img width=300 src="images/effacer.jpg" alt="Effacer" /> </center>
 
-<p>Dans la partie <i>Édition</i>, on peut :
-- <b>Effacer tout</b> pour vider complètement les cellules
-- <b>Effacer les formats</b> pour garder le contenu avec un format par défaut
-- <b>Effacer le contenu</b> pour garder le format mais supprimer le contenu
+<p>Dans la partie <i>Édition</i>, on peut : <br>
+- <b>Effacer tout</b> pour vider complètement les cellules <br>
+- <b>Effacer les formats</b> pour garder le contenu avec un format par défaut<br>
+- <b>Effacer le contenu</b> pour garder le format mais supprimer le contenu </p>
 
 <br>
 <hr />
