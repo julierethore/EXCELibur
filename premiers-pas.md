@@ -1,4 +1,3 @@
-
 <h2>Quelques formulations basiques</h2> 
 
 
@@ -23,25 +22,35 @@ Formule | Résultat
 
 <p>Une fois la formule entrée dans une cellule, on peut la <b>tirer</b> en cliquant sur le carré en bas à gauche de la cellule pour appliquer la formule sur toute une colonne/ligne. La formule sera répétée automatiquement, mais les cellules concernées par le calcul vont changer en fonction de l'incrémentation.<br>
 Par exemple, si en D1 on a la formule suivante :</p>
+
 ~~~
 =A1+B1-C1
 ~~~
+
 <p>Alors en tirant la formule sur toute la colonne D, on aura en D7 :</p>
+
 ~~~
 =A7+B7-C7
 ~~~
+
 <p>Par ailleurs, si on tire la formule également sur la colonne E, on aura en E7 : </p>
+
 ~~~
 =B7+C7-D7
 ~~~
+
 <p>Car le décalage s'applique à la fois aux lignes et au colonnes. Pour « fixer » la colonne ou la ligne dans une formule, il faut la précéder d'un signe « <b>$</b> » : </p>
+
 ~~~
 =$A1+$B1-$C1
 ~~~
+
 <p>La formule ci-dessus incrémentera les lignes mais ne sortira pas des colonnes A, B et C.</p>
+
 ~~~
 =$A$1+B1
 ~~~
+
 <p>Qu'elle soit tirée horizontalement ou verticalement, cette formule calculera toujours avec la valeur de la cellule A1.</p>
 
 --------
@@ -65,8 +74,8 @@ On peut orienter le texte dans différentes direction, et paramétrer un retour 
 <p>La partie <i>Nombre</i> permet de configurer le format de nombre : ci-dessous, la cellule sélectionnée contient seulement « 1969 » et ce nombre s'affichera différemment en fonction du format choisi.</p>
 
 <center> <img src="images/nombre1.jpg" alt="<- ,OO" /> </center> <br>
-<center> <img src="images/nombre.jpg" alt="Nombre" /> </center> <br>
-<p>On peut ajuster la quantité de nombres après la virgule à afficher. Par exemple, si on entre dans une cellule « =10/3 », elle s'affiche normalement « 3,3333333 », mais on peut la paramétrer pour qu'elle affiche seulement deux chiffres après la virgule : « 3,33 ». </p>
+<p> <img align=left src="images/nombre.jpg" alt="Nombre" /> 
+  On peut ajuster la quantité de nombres après la virgule à afficher. Par exemple, si on entre dans une cellule « =10/3 », elle s'affiche normalement « 3,3333333 », mais on peut la paramétrer pour qu'elle affiche seulement deux chiffres après la virgule : « 3,33 ». </p>
 
 ------
 
@@ -101,17 +110,8 @@ Plus d'informations [ici](options-avancees). </p>
 
 > *Remarque :* un tri modifie l’ordre des cellules, et un filtre dissimule des lignes sans les supprimer.
 
+
 ----------
 
 [<< Retour à l'index - Page précédente](index.md) ••• [Page suivante - Options avancées >>](options-avancees.md)
-
-
-
-
-
-
-
-
-
-
 
