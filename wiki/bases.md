@@ -21,6 +21,12 @@ Formule | Résultat
 
 ## Barre d'outils : onglet ACCUEIL
 
+Un fichier Excel s’appelle un classeur, et il peut être composé de plusieurs feuilles, ce qui facilite la navigation entre différents tableaux. On peut ajouter des feuilles sur la barre de navigation, en bas. Il est aussi possible de les déplacer pour changer leur ordre, ou de les renommer pour s’y retrouver plus facilement.
+
+![img](/wiki/jpg/feuilles.JPG "Feuilles")
+
+-------
+
 Dans l'onglet **Accueil**, la partie *Alignement* permet d'ordonner le texte dans la cellule.
 On peut aligner le texte à gauche, à droite, ou au milieu ; en haut, en bas ou au centre de la cellule.
 On peut orienter le texte dans différentes direction, et paramétrer un retour à la ligne automatique.
@@ -39,6 +45,7 @@ On peut ajuster la quantité de nombres après la virgule à afficher. Par exemp
 ------
 
 ![img](/wiki/jpg/mise_en_forme_conditionnelle.jpg "Mise en forme conditionnelle")
+
 **La mise en forme conditionnelle** permet de mettre en évidence les différences de valeurs dans un tableau. <br>
 La plus facile d’utilisation est celle des nuances de couleurs, qui va par exemple colorer les plus petites valeurs en rouge et les plus grandes en vert. <br>
 Dans « **Gérer les règles** », on peut personnaliser des règles de mise en forme, notamment pour les cellules contenant du texte.
@@ -52,15 +59,25 @@ Dans « **Gérer les règles** », on peut personnaliser des règles de mise en 
 
 ----------
 
-----------
-
-![img](/wiki/jpg/feuilles.JPG "Feuilles")
-Un fichier Excel s’appelle un classeur, et il peut être composé de plusieurs feuilles, ce qui facilite la navigation entre différents tableaux. On peut ajouter des feuilles sur la barre de navigation, en bas. Il est aussi possible de les déplacer pour changer leur ordre, ou de les renommer pour s’y retrouver plus facilement.
-
-
+### Trier et filtrer
 
 ![img](/wiki/jpg/selection_filtre.jpg "Sélection filtre")
+
+Pour trier un tableau, bien sélectionner toutes les cellules concernées, afin qu’une colonne ne soit pas triée toute seule sans être accompagnée du reste des informations de chaque ligne. Sur cet exemple, la sélection de cellules est grisée et bordée de vert, et les lignes et colonnes concernées sont foncées.
+
 ![img](/wiki/jpg/tri.jpg "Tri personnalisé")
+
+Dans **« Tri personnalisé »**, on peut paramétrer les différents niveaux de tri, utiles si certaines valeurs sont identiques dans plusieurs cellules de la même colonne. On peut choisir la colonne, le critère et l’ordre selon lesquels trier le tableau (ci-dessus : tri selon la colonne B, chronologiquement, par ordre croissant).
+
+Pour **« Filtrer »**, il faut sélectionner les colonnes concernées : sur cet exemple, on voit que les colonnes C, D et E sont en foncées en vert, ce qui signifie qu’elles ont été sélectionnées dans leur totalité. En filtrant, un petit curseur va apparaître dans les cellules C1, D1 et E1 : il permet l’affichage d’une liste déroulante des possibilités de filtrage.
+
+> *Remarque :* un tri modifie l’ordre des cellules, et un filtre dissimule des lignes sans les supprimer.
+
+----------
+
+
+
+
 
 
 
