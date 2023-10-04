@@ -17,7 +17,8 @@ La plus facile d’utilisation est celle des nuances de couleurs, qui va par exe
 
 <h2>Règles avec formule</h2>
 
-<p>Avant de créer une nouvelle règle de mise en forme, il faut veiller à sélectionner toutes les cellules qui seront concernées. On peut choisir d'utiliser une formule afin de déterminer pour quelles cellules parmi la sélection sera appliqué le format. <br>
+<p>Avant de créer une nouvelle règle de mise en forme, il faut veiller à sélectionner toutes les cellules qui seront concernées. On peut choisir d'utiliser une formule afin de déterminer pour quelles cellules (parmi la sélection) le format sera appliqué. <br>
+
 
 
 ----------
