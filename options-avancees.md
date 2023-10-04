@@ -11,8 +11,8 @@ Par exemple, pour vérifier si les cellules de la colonne A sont positives ou n�
 =SI(A1>0;"Positif";"Négatif")
 ~~~
 
-<center> <img src="images/fonction_si.JPG" alt="Exemple 1" /> <br>
-<i>Exemple 1</i> </center> <br>
+<center> <img src="images/fonction_si.JPG" alt="Exemple 1" /> </center> <br>
+<center> <i>Exemple 1</i> </center> <br>
 
 Il faudra ensuite "tirer" la cellule pour que la formule s'applique sur toutes les cellules de la colonne B.
 
