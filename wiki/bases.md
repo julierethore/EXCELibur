@@ -21,14 +21,25 @@ Formule | Résultat
 
 ## Barre d'outils
 
+Dans l'onglet **Accueil**, la partie *Alignement* permet d'ordonner le texte dans la cellule.
+
 ![img](/wiki/jpg/alignement.jpg "Alignement")
+
+La partie *Nombre* permet de configurer le format de nombre : ici, la cellule sélectionnée contient seulement « 1969 » et ce nombre s'affichera différemment en fonction du format choisi.
+
+![img](/wiki/jpg/nombre.jpg "Nombre")
+
+<img src="/wiki/jpg/nombre1.jpg" alt="Nombre" width="200"/>
+On peut ajuster la quantité de nombres après la virgule à afficher. Par exemple, si on entre dans une cellule « =10/3 », elle s'afficherait normalement « 3,3333333 », mais on peut la paramétrer pour qu'elle affiche seulement deux chiffres après la virgule : « 3,33 ».
+
+
+
+
 ![img](/wiki/jpg/effacer.jpg "Effacer")
 ![img](/wiki/jpg/feuilles.JPG "Feuilles")
-![img](/wiki/jpg/mise%en%forme%conditionnelle.jpg "Mise en forme conditionnelle")
-![img](/wiki/jpg/nombre.jpg "Nombre")
-![img](/wiki/jpg/nombre1.jpg "Nombre")
-![img](/wiki/jpg/r&#xE9;pertoire.jpg "Répertoire")
-![img](/wiki/jpg/sélectionfiltre.jpg "Sélection filtre")
+![img](/wiki/jpg/mise_en_forme_conditionnelle.jpg "Mise en forme conditionnelle")
+
+![img](/wiki/jpg/selection_filtre.jpg "Sélection filtre")
 ![img](/wiki/jpg/tri.jpg "Tri personnalisé")
 
 
