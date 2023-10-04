@@ -8,7 +8,7 @@ Elle permet d'effectuer un test logique. Si le test est vérifié, la cellule af
 
 Par exemple, pour vérifier si les cellules de la colonne A sont positives ou négatives, on entrera dans la première cellule de la colonne B :
 
-<center> <img src="images/fonction_si" alt="Exemple 1" /> <br>
+<center> <img src="images/fonction_si.JPG" alt="Exemple 1" /> <br>
 <i>Exemple 1</i> </center> <br>
 
 ~~~
