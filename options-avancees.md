@@ -1,7 +1,5 @@
 <h1> Options avancées : tests logiques </h1>
 
---------
-
 <h2> La fonction =SI( </h2>
 
 <p>Elle permet d'effectuer un test logique. Si le test est vérifié, la cellule affichera une valeur prédéfinie ; si le test échoue, la cellule affichera une autre valeur.</p>
