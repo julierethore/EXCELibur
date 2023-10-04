@@ -21,6 +21,20 @@ Formule | Résultat
 =MOYENNE(A1:A10) | Calcule la moyenne des valeurs des cellules comprises entre A1 et A10
 '=E7/E2 | Affiche « =E7/E2 » en texte dans la cellule sans produire le calcul
 
+<p>Une fois la formule entrée dans une cellule, on peut la <b>tirer</b> en cliquant sur le carré en bas à gauche de la cellule pour appliquer la formule sur toute une colonne/ligne. La formule sera répétée automatiquement, mais les cellules concernées par le calcul vont changer en fonction de l'incrémentation.<br>
+Par exemple, si en D1 on a la formule suivante :</p>
+> =A1+B1-C1
+<p>Alors en tirant la formule sur toute la colonne D, on aura en D7 :</p>
+> =A7+B7-C7
+<p>Par ailleurs, si on tire la formule également sur la colonne E, on aura en E7 : </p>
+> =B7+C7-D7
+<p>Car le décalage s'applique à la fois aux lignes et au colonnes. Pour « fixer » la colonne ou la ligne dans une formule, il faut la précéder d'un signe « <b>$</b> » : </p>
+> =$A1+$B1-$C1
+<p>La formule ci-dessus incrémentera les lignes mais ne sortira pas des colonnes A, B et C.</p>
+> =$A$1+B1
+<p>Qu'elle soit tirée horizontalement ou verticalement, cette formule calculera toujours avec la valeur de la cellule A1.</p>
+
+
 --------
 
 <h2> Barre d'outils : onglet ACCUEIL </h2>
@@ -31,7 +45,7 @@ Formule | Résultat
 
 -------
 
-<p>En haut, dans l'onglet **Accueil**, la partie *Alignement* permet d'ordonner le texte dans la cellule. <br>
+<p>En haut, dans l'onglet <b>Accueil</b>, la partie <i>Alignement</i> permet d'ordonner le texte dans la cellule. <br>
 On peut aligner le texte à gauche, à droite, ou au milieu ; en haut, en bas ou au centre de la cellule. <br>
 On peut orienter le texte dans différentes direction, et paramétrer un retour à la ligne automatique. </p>
 
@@ -39,7 +53,7 @@ On peut orienter le texte dans différentes direction, et paramétrer un retour 
 
 -------
 
-<p>La partie *Nombre* permet de configurer le format de nombre : ci-dessous, la cellule sélectionnée contient seulement « 1969 » et ce nombre s'affichera différemment en fonction du format choisi.</p>
+<p>La partie <i>Nombre</i> permet de configurer le format de nombre : ci-dessous, la cellule sélectionnée contient seulement « 1969 » et ce nombre s'affichera différemment en fonction du format choisi.</p>
 
 <center> <img src="images/nombre1.jpg" alt="<- ,OO" /> </center> <br>
 <center> <img src="images/nombre.jpg" alt="Nombre" /> </center> <br>
