@@ -7,7 +7,6 @@
 <blockquote> <b>=SI(</b> test logique ; valeur si VRAI ; valeur si FAUX )</blockquote>
 
 <br>
-<br>
 
 <center> <img width=200 src="images/fonction_si.JPG" alt="Exemple 1" /> </center>
 
@@ -20,7 +19,6 @@
 
 <br>
 <br>
-<br>
 
 <h2> Les fonctions =ET( et =OU( </h2>
 
@@ -29,7 +27,6 @@
 <blockquote><b>=ET(</b> condition 1 ; condition 2 ; etc. ) <br>
 <b>=OU(</b> condition 1 ; condition 2 ; etc. ) </blockquote>
 
-<br>
 <br>
 
 <center> <img width=500 src="images/fonction_etou.JPG" alt="Exemple 2" /> </center>
@@ -41,7 +38,6 @@
 <p>Si on veut vérifier les clients qui n'ont validé aucune de ces conditions, on utilisera cette formule : </p>
 <pre>=OU(A1<10;B1<500;C1="NON")</pre>
 
-<br>
 <br>
 <br>
 
