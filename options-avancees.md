@@ -8,7 +8,7 @@
 
 ------
 
-<center> <img src="images/fonction_si.JPG" alt="Exemple 1" /> </center>
+<center> <img width=200 src="images/fonction_si.JPG" alt="Exemple 1" /> </center>
 
 <center> <i>Exemple 1</i> </center>
 
@@ -30,7 +30,7 @@
 
 --------
 
-<center> <img src="images/fonction_etou.JPG" alt="Exemple 2" /> </center>
+<center> <img width=500 src="images/fonction_etou.JPG" alt="Exemple 2" /> </center>
 
 <center> <i>Exemple 2</i> </center>
 
@@ -70,14 +70,9 @@
 =SI(A1>0;"Positif";SI(A1=0;"Zéro";"Négatif"))
 ~~~
 
-<br/
+<br/>
 <hr/>
 <br/>
 
 <center> <a href="premiers-pas" target="self" title="Premiers pas"><< Premiers pas - Page précédente</a> << • • • >> <a href="mise-en-forme-conditionnelle" target="self" title="Mise en forme conditionnelle">Page suivante - Mise en forme conditionnelle >></a> </center>
-
-
-
-
-
 
