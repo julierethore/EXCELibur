@@ -8,11 +8,13 @@ Elle permet d'effectuer un test logique. Si le test est vérifié, la cellule af
 
 Par exemple, pour vérifier si les cellules de la colonne A sont positives ou négatives, on entrera dans la première cellule de la colonne B :
 
-<center> <img src="images/fonction_si" alt="Exemple 1" /> </center>
+<center> <img src="images/fonction_si" alt="Exemple 1" /> <br>
+<i>Exemple 1</i> </center> <br>
 
 ~~~
 =SI(A1>0;"Positif";"Négatif")
 ~~~
+
 Il faudra ensuite "tirer" la cellule pour que la formule s'applique sur toutes les cellules de la colonne B.
 
 ----------
@@ -26,12 +28,13 @@ Ces fonctions renvoient "VRAI" ou "FAUX" selon les conditions remplies. Pour la 
 
 Par exemple, on veut vérifier dans une liste de clients ceux qui ont passé au moins 10 commandes dans la colonne A, **et** qui ont dépensé plus de 500 € dans la colonne B, **et** qui ont validé leur inscription dans la colonne C.
 
-<center> <img src="images/fonction_etou" alt="Exemple 2" /> </center>
+<center> <img src="images/fonction_etou" alt="Exemple 2" /> <br>
+<i>Exemple 2</i> </center> <br>
 
 ~~~
 =ET(A1>=10;B1>500;C1="OUI")
 ~~~
-Si on veut vérifier les clients qui n'ont validé aucune de ces conditions, on utilisera cette formule :
+Si on veut vérifier les clients qui n'ont validé aucune de ces conditions, on utilisera cette formule : <br>
 ~~~
 =OU(A1<10;B1<500;C1="NON")
 ~~~
@@ -45,11 +48,11 @@ On peut imbriquer dans une fonction SI des formules ET/OU afin de créer des tes
 > =SI(ET( condition 1 ; condition 2 ; etc. ) ; valeur si tout est VRAI ; valeur si 1 FAUX ) <br>
 > =SI(OU( condition 1 ; condition 2 ; etc. ) ; valeur si 1 VRAI ; valeur si tout est FAUX )
 
-Dans l'exemple précédent, si on veut que les clients ayant rempli **toutes** les conditions aient une réduction de 25% sur leur commande en colonne D, on entrera la formule suivante :
+Dans l'exemple 1, si on veut que les clients ayant rempli **toutes** les conditions aient une réduction de 25% sur leur commande en colonne D, on entrera la formule suivante : <br>
 ~~~
 =SI(ET(A1>=10;B1>500;C1="OUI");D1*0,75;D1)
 ~~~
-Si on veut que les clients remplissant **au moins une** condition aient une réduction de 10%, on utilisera cette formule :
+Si on veut que les clients remplissant **au moins une** condition aient une réduction de 10%, on utilisera cette formule : <br>
 ~~~
 =SI(OU(A1<10;B1<500;C1="NON");D1;D1*0,90)
 ~~~
@@ -57,8 +60,8 @@ Si on veut que les clients remplissant **au moins une** condition aient une réd
 On peut aussi imbriquer une fonction SI dans une fonction SI pour que le test logique ait trois possibilités de résultats ou plus.
 
 > =SI( test logique X ; valeur 1 si VRAI ; SI( test logique Y ; valeur 2 si VRAI ; valeur 3 si FAUX ))
-> 
-Par exemple, pour vérifier si les cellules de la colonne A sont positives, négatives, ou égales à zéro, on entrera dans la première cellule de la colonne B :
+
+Dans l'exemple 2, pour vérifier si les cellules de la colonne A sont positives, négatives, ou égales à zéro, on entrera dans la première cellule de la colonne B : <br>
 ~~~
 =SI(A1>0;"Positif";SI(A1=0;"Zéro";"Négatif"))
 ~~~
