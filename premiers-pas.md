@@ -1,14 +1,29 @@
 <h2>Quelques formulations basiques</h2> 
 
-
-Sélection | Résultat
-:-----:|:----
-A:A | Toutes les cellules de la colonne A
-1:1 | Toutes les cellules de la ligne 1
-A1 | La cellule située au croisement entre la colonne 1 et la ligne 1
-AI:A10 | Toutes les cellules comprises entre A1 et A10
-B1;B3;B8 | Seulement les cellules B1, B3 et B8
-
+<table>
+  <tbody>
+    <tr>
+      <td> <code>A:A</code></td>
+      <td> <p> Toutes les cellules de la colonne A</p> </td>
+    </tr>
+    <tr>
+      <td> <code>1:1</code></td>
+      <td> <p> Toutes les cellules de la ligne 1</p> </td>
+    </tr>
+    <tr>
+      <td> <code>A1</code></td>
+      <td> <p> La cellule située au croisement entre la colonne 1 et la ligne 1</p> </td>
+    </tr>
+    <tr>
+      <td> <code>AI:A10</code></td>
+      <td> <p> Toutes les cellules comprises entre A1 et A10</p> </td>
+    </tr>
+    <tr>
+      <td> <code>B1;B3;B8</code></td>
+      <td> <p> Seulement les cellules B1, B3 et B8 </p> </td>
+    </tr>
+  </tbody>
+</table>
 
 Formule | Résultat
 :-----:|:----
@@ -19,6 +34,39 @@ Formule | Résultat
 =SOMME(A1:A10;B1) | Additionne toutes les valeurs des cellules comprises entre A1 et A10, plus celle de B1
 =MOYENNE(A1:A10) | Calcule la moyenne des valeurs des cellules comprises entre A1 et A10
 '=E7/E2 | Affiche « =E7/E2 » en texte dans la cellule sans produire le calcul
+
+<table>
+  <tbody>
+    <tr>
+      <td> <code>=C1+C6</code></td>
+      <td> <p> Additionne la valeur de C1 et la valeur de C6</p> </td>
+    </tr>
+    <tr>
+      <td> <code>=D4*D5</code></td>
+      <td> <p> Multiplie la valeur de D4 par la valeur de D5</p> </td>
+    </tr>
+    <tr>
+      <td> <code>=E7/E2</code></td>
+      <td> <p> Divise la valeur de E7 par la valeur de E2</p> </td>
+    </tr>
+    <tr>
+      <td> <code>=SOMME(A1:A10</code></td>
+      <td> <p> Additionne toutes les valeurs des cellules comprises entre A1 et A10</p> </td>
+    </tr>
+    <tr>
+      <td> <code>=SOMME(A1:A10;B1)</code></td>
+      <td> <p> Additionne toutes les valeurs des cellules comprises entre A1 et A10, plus celle de B1</p> </td>
+    </tr>
+    <tr>
+      <td> <code>=MOYENNE(A1:A10)</code></td>
+      <td> <p> Calcule la moyenne des valeurs des cellules comprises entre A1 et A10</p> </td>
+    </tr>
+    <tr>
+      <td> <code>'=E7/E2</code></td>
+      <td> <p> Affiche « =E7/E2 » en texte dans la cellule sans produire le calcul</p> </td>
+    </tr>
+  </tbody>
+</table>
 
 <p>Une fois la formule entrée dans une cellule, on peut la <b>tirer</b> en cliquant sur le carré en bas à gauche de la cellule pour appliquer la formule sur toute une colonne/ligne. La formule sera répétée automatiquement, mais les cellules concernées par le calcul vont changer en fonction de l'incrémentation.</p>
 <p>Par exemple, si en D1 on a la formule suivante :</p>
