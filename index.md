@@ -1,9 +1,17 @@
-<center> <font color="#34623f" size="500px"> <b> TUTOS EXCEL </b> </font> </center>
+<center> <font color="#34623f" size="500px"> <b> TUTORIELS EXCEL </b> </font> </center>
 
+<h2>Plan du site</h2>
 
-* [Premiers pas](premiers-pas.md)
-* [Outils avancés](options-avancees.md)
-* [Autres informations](autres-fonctions.md)
+1. [Premiers pas](premiers-pas.md)
+2. [Tests logiques](options-avancees.md)
+3. [Mise en forme conditionnelle](mise-en-forme-conditionnelle.md)
+4. ~~Graphiques~~ (non disponible)
+5. ~~Tableau croisé dynamique~~ (non disponible)
+6. [Autres fonctions](autres-fonctions.md)
+
+<h2>Késako ?</h2>
+
+<p>Ce site est un petit registre non-exhaustif de tutoriels d'utilisation des tableurs Excel. Il s'efforce de répertorier les fonctionnalités les plus utiles et de les expliquer pour les rendre accessibles aux débutants. S'il devait être développé plus encore, ce serait pour tendre à une exhaustivité des fonctionnalités offertes par le logiciel, et peut-être même pour proposer des exercices de mise en pratique avec des corrigés explicatifs.</p>
 
 
 [cliquez ici](/wiki/bases.md)
