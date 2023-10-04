@@ -80,8 +80,8 @@ Pour « **Filtrer** », il faut sélectionner les colonnes concernées : sur cet
 
 ----------
 
-<a href="bases.md">Page suivante : Options avancées </a>
-<a href="index.md">Retour à l'index </a>
+[<< Retour à l'index | Page précédente](index.md) • [Page suivante | Options avancées >>](bases.md)
+
 
 
 
