@@ -72,8 +72,8 @@ On peut orienter le texte dans différentes direction, et paramétrer un retour 
 
 <p>La partie <i>Nombre</i> permet de configurer le format de nombre : ci-dessous, la cellule sélectionnée contient seulement « 1969 » et ce nombre s'affichera différemment en fonction du format choisi.</p>
 
-<center> <img align=left src="images/nombre.jpg" alt="Nombre" /> </center>
-<p> <img src="images/nombre1.jpg" alt="<- ,OO" /> 
+<center> <img src="images/nombre.jpg" alt="Nombre" /> </center> <br>
+<p> <img align=left src="images/nombre1.jpg" alt="<- ,OO" /> 
   On peut ajuster la quantité de nombres après la virgule à afficher. Par exemple, si on entre dans une cellule « =10/3 », elle s'affiche normalement « 3,3333333 », mais on peut la paramétrer pour qu'elle affiche seulement deux chiffres après la virgule : « 3,33 ». </p>
 
 ------
@@ -107,7 +107,6 @@ Plus d'informations [ici](options-avancees). </p>
 <p>Pour « <b>Filtrer</b> », il faut sélectionner les colonnes concernées : sur cet exemple, on voit que les colonnes C, D et E sont en foncées en vert, ce qui signifie qu’elles ont été sélectionnées dans leur totalité. En filtrant, un petit curseur va apparaître dans les cellules C1, D1 et E1 : il permet l’affichage d’une liste déroulante des possibilités de filtrage. </p>
 
 > *Remarque :* un tri modifie l’ordre des cellules, et un filtre dissimule des lignes sans les supprimer.
-
 
 ----------
 
