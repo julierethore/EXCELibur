@@ -1,13 +1,16 @@
 <h1> Options avancées : tests logiques </h1>
 
+<dialog open>
+  <p>Salutations, à tous et à toutes !</p>
+</dialog>
+
 <h2> La fonction =SI( </h2>
 
 <p>Elle permet d'effectuer un test logique. Si le test est vérifié, la cellule affichera une valeur prédéfinie ; si le test échoue, la cellule affichera une autre valeur.</p>
 
 > **=SI(** test logique ; valeur si VRAI ; valeur si FAUX )
 
-<br>
-<br>
+------
 
 <center> <img src="images/fonction_si.JPG" alt="Exemple 1" /> </center>
 
@@ -28,6 +31,8 @@
 
 > **=ET(** condition 1 ; condition 2 ; etc. ) <br>
 > **=OU(** condition 1 ; condition 2 ; etc. )
+
+--------
 
 <center> <img src="images/fonction_etou.JPG" alt="Exemple 2" /> </center>
 
