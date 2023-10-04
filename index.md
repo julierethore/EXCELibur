@@ -1,4 +1,4 @@
-<center> <font color="#34623f" size="500px"> <b> TUTORIELS EXCEL </b> </font> </center>
+<h1 align="center" font color="#34623f" size="500px"> <b> TUTORIELS EXCEL </b> </h1>
 
 <h2>Plan du site</h2>
 
