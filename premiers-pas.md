@@ -31,7 +31,7 @@ Un fichier Excel s’appelle un classeur, et il peut être composé de plusieurs
 
 -------
 
-Dans l'onglet **Accueil**, la partie *Alignement* permet d'ordonner le texte dans la cellule.
+En haut, dans l'onglet **Accueil**, la partie *Alignement* permet d'ordonner le texte dans la cellule.
 On peut aligner le texte à gauche, à droite, ou au milieu ; en haut, en bas ou au centre de la cellule.
 On peut orienter le texte dans différentes direction, et paramétrer un retour à la ligne automatique.
 
@@ -51,7 +51,8 @@ On peut ajuster la quantité de nombres après la virgule à afficher. Par exemp
 
 **La mise en forme conditionnelle** permet de mettre en évidence les différences de valeurs dans un tableau. <br>
 La plus facile d’utilisation est celle des nuances de couleurs, qui va par exemple colorer les plus petites valeurs en rouge et les plus grandes en vert. <br>
-Dans « **Gérer les règles** », on peut personnaliser des règles de mise en forme, notamment pour les cellules contenant du texte.
+Dans « **Gérer les règles** », on peut personnaliser des règles de mise en forme, notamment pour les cellules contenant du texte. <br>
+Plus d'informations [ici](options-avancees).
 
 ----------
 
