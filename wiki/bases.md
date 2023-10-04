@@ -61,11 +61,11 @@ Dans « **Gérer les règles** », on peut personnaliser des règles de mise en 
 
 ### Trier et filtrer
 
-![img](/wiki/jpg/selection_filtre.jpg "Sélection filtre")
+![ABC](jpg/selection_filtre.jpg "Sélection filtre")
 
 Pour trier un tableau, bien sélectionner toutes les cellules concernées, afin qu’une colonne ne soit pas triée toute seule sans être accompagnée du reste des informations de chaque ligne. Sur cet exemple, la sélection de cellules est grisée et bordée de vert, et les lignes et colonnes concernées sont foncées.
 
-![img](/wiki/jpg/tri.jpg "Tri personnalisé")
+![img](jpg/tri.jpg "Tri personnalisé")
 
 Dans « **Tri personnalisé** », on peut paramétrer les différents niveaux de tri, utiles si certaines valeurs sont identiques dans plusieurs cellules de la même colonne. On peut choisir la colonne, le critère et l’ordre selon lesquels trier le tableau (ci-dessus : tri selon la colonne B, chronologiquement, par ordre croissant).
 
