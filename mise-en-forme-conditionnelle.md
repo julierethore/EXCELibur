@@ -23,4 +23,4 @@ La plus facile d’utilisation est celle des nuances de couleurs, qui va par exe
 
 ----------
 
-[<< Tests logiques - Page précédente](options-avancees.md) ••• [Page suivante - Autres fonctions >>](autres-fonction.md)
+<center> <a href="options-avancees.md" target="self" title="Tests logiques"><< Tests logiques - Page précédente</a> << • • • >> <a href="index.md" target="self" title="Index">Page suivante - Retour à l'index >></a> </center>
