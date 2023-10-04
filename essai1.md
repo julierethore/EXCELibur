@@ -1,5 +1,13 @@
 essai essai essai
 
+<frameset border="0" frameborder="0" framespacing="0" rows="20%,*">
+		<frame src="title.html">
+		<frameset border="0" frameborder="0" framespacing="0" cols="30%,*">
+			<frame src="menu.html">
+			<frame src="content.html">
+		</frameset>
+	</frameset>
+
 <center> <font color="#34623f" size="200px"> this is the index </font> </center>
 
 [cliquez ici](/wiki/bases.md)
