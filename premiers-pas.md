@@ -44,7 +44,6 @@ Par exemple, si en D1 on a la formule suivante :</p>
 ~~~
 <p>Qu'elle soit tirée horizontalement ou verticalement, cette formule calculera toujours avec la valeur de la cellule A1.</p>
 
-
 --------
 
 <h2> Barre d'outils : onglet ACCUEIL </h2>
