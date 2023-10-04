@@ -1,68 +1,53 @@
 <h2>Quelques formulations basiques</h2> 
 
-<table>
+<table align="center">
   <tbody>
     <tr>
-      <td> <code>A:A</code></td>
+      <td align="center"> <code>A:A</code></td>
       <td> <p> Toutes les cellules de la colonne A</p> </td>
     </tr>
     <tr>
-      <td> <code>1:1</code></td>
+      <td align="center"> <code>1:1</code></td>
       <td> <p> Toutes les cellules de la ligne 1</p> </td>
     </tr>
     <tr>
-      <td> <code>A1</code></td>
+      <td align="center"> <code>A1</code></td>
       <td> <p> La cellule située au croisement entre la colonne 1 et la ligne 1</p> </td>
     </tr>
     <tr>
-      <td> <code>AI:A10</code></td>
+      <td align="center"> <code>AI:A10</code></td>
       <td> <p> Toutes les cellules comprises entre A1 et A10</p> </td>
     </tr>
     <tr>
-      <td> <code>B1;B3;B8</code></td>
+      <td align="center"> <code>B1;B3;B8</code></td>
       <td> <p> Seulement les cellules B1, B3 et B8 </p> </td>
     </tr>
-  </tbody>
-</table>
-
-Formule | Résultat
-:-----:|:----
-=C1+C6 | Additionne la valeur de C1 et la valeur de C6
-=D4*D5 | Multiplie la valeur de D4 par la valeur de D5
-=E7/E2 | Divise la valeur de E7 par la valeur de E2
-=SOMME(A1:A10) | Additionne toutes les valeurs des cellules comprises entre A1 et A10
-=SOMME(A1:A10;B1) | Additionne toutes les valeurs des cellules comprises entre A1 et A10, plus celle de B1
-=MOYENNE(A1:A10) | Calcule la moyenne des valeurs des cellules comprises entre A1 et A10
-'=E7/E2 | Affiche « =E7/E2 » en texte dans la cellule sans produire le calcul
-
-<table>
-  <tbody>
     <tr>
-      <td> <code>=C1+C6</code></td>
+      <td align="center"> <code>=C1+C6</code></td>
       <td> <p> Additionne la valeur de C1 et la valeur de C6</p> </td>
     </tr>
     <tr>
-      <td> <code>=D4*D5</code></td>
+      <td align="center"> <code>=D4*D5</code></td>
       <td> <p> Multiplie la valeur de D4 par la valeur de D5</p> </td>
     </tr>
     <tr>
-      <td> <code>=E7/E2</code></td>
+      <td align="center"> <code>=E7/E2</code></td>
       <td> <p> Divise la valeur de E7 par la valeur de E2</p> </td>
     </tr>
     <tr>
-      <td> <code>=SOMME(A1:A10</code></td>
+      <td align="center"> <code>=SOMME(A1:A10)</code></td>
       <td> <p> Additionne toutes les valeurs des cellules comprises entre A1 et A10</p> </td>
     </tr>
     <tr>
-      <td> <code>=SOMME(A1:A10;B1)</code></td>
+      <td align="center"> <code>=SOMME(A1:A10;B1)</code></td>
       <td> <p> Additionne toutes les valeurs des cellules comprises entre A1 et A10, plus celle de B1</p> </td>
     </tr>
     <tr>
-      <td> <code>=MOYENNE(A1:A10)</code></td>
+      <td align="center"> <code>=MOYENNE(A1:A10)</code></td>
       <td> <p> Calcule la moyenne des valeurs des cellules comprises entre A1 et A10</p> </td>
     </tr>
     <tr>
-      <td> <code>'=E7/E2</code></td>
+      <td align="center"> <code>'=E7/E2</code></td>
       <td> <p> Affiche « =E7/E2 » en texte dans la cellule sans produire le calcul</p> </td>
     </tr>
   </tbody>
@@ -81,8 +66,8 @@ Formule | Résultat
 
 <pre>=B7+C7-D7</pre>
 
-<p>Pour « fixer » la colonne ou la ligne dans une formule, il faut la faireprécéder d'un signe <b>$</b>. </p>
-<p>La formule ci-dessus incrémentera les lignes mais ne sortira pas des colonnes A, B et C.</p>
+<p>Pour « fixer » la colonne ou la ligne dans une formule, il faut la faire précéder d'un signe <b>$</b>. </p>
+<p>La formule ci-dessous incrémentera les lignes mais ne sortira pas des colonnes A, B et C.</p>
 
 <pre>=$A1+$B1-$C1</pre>
 
@@ -120,7 +105,7 @@ On peut orienter le texte dans différentes direction, et paramétrer un retour 
 <br>
 <hr />
 
-<center> <img src="images/mise_en_forme_conditionnelle.jpg" alt="Mise en forme conditionnelle" /> </center>
+<img align="center" src="images/mise_en_forme_conditionnelle.jpg" alt="Mise en forme conditionnelle" />
 
 <p><b>La mise en forme conditionnelle</b> permet de mettre en évidence les différences de valeurs dans un tableau. Il est important de bien sélectionner la plage sur laquelle s'appliquera la mise en forme avant de la paramétrer. <br>
 La plus facile d’utilisation est celle des nuances de couleurs, qui va par exemple colorer les plus petites valeurs en rouge et les plus grandes en vert. Dans « <b>Gérer les règles</b> », on peut personnaliser des règles de mise en forme, notamment pour les cellules contenant du texte. <br>
