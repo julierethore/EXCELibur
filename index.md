@@ -1,3 +1,8 @@
+<html>
+  <head>
+    <title> EXCELibur </title>
+  </head>
+  
 <h1 align="center" font color="#34623f" size="500px"> <b> TUTORIELS EXCEL </b> </h1>
 
 <h2>Plan du site</h2>
@@ -16,3 +21,6 @@
 
 <br>
 <hr/>
+<br>
+<center>• • •</center>
+</html>
