@@ -1,6 +1,7 @@
 
 ## Quelques formulations basiques
 
+
 Sélection | Résultat
 :-----:|:----
 A:A | Toutes les cellules de la colonne A
