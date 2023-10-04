@@ -42,8 +42,8 @@ Formule | Résultat
 
 <pre>=$A$1+B1</pre>
 
-<hr/>
 <br>
+<hr />
 
 <h2> Barre d'outils : onglet ACCUEIL </h2>
 
@@ -51,8 +51,8 @@ Formule | Résultat
 
 <center> <img width=600 src="images/feuilles.JPG" alt="Feuilles" /> </center>
 
-<hr/>
 <br>
+<hr />
 
 <p>En haut, dans l'onglet <b>Accueil</b>, la partie <i>Alignement</i> permet d'ordonner le texte dans la cellule. <br>
 On peut aligner le texte à gauche, à droite, ou au milieu ; en haut, en bas ou au centre de la cellule. <br>
@@ -60,8 +60,8 @@ On peut orienter le texte dans différentes direction, et paramétrer un retour 
 
 <center> <img width=600 src="images/alignement.jpg" alt="Alignement" /> </center>
 
-<hr/>
 <br>
+<hr />
 
 <p>La partie <i>Nombre</i> permet de configurer le format de nombre : ci-dessous, la cellule sélectionnée contient seulement « 1969 » et ce nombre s'affichera différemment en fonction du format choisi.</p>
 
@@ -69,17 +69,17 @@ On peut orienter le texte dans différentes direction, et paramétrer un retour 
 <p> <img align=left width=200 src="images/nombre1.jpg" alt="<- ,OO" /> 
   On peut ajuster la quantité de nombres après la virgule à afficher. Par exemple, si on entre dans une cellule « =10/3 », elle s'affiche normalement « 3,3333333 », mais on peut la paramétrer pour qu'elle affiche seulement deux chiffres après la virgule : « 3,33 ». </p> <br>
 
-<hr/>
 <br>
+<hr />
 
 <center> <img src="images/mise_en_forme_conditionnelle.jpg" alt="Mise en forme conditionnelle" /> </center>
 
 <p><b>La mise en forme conditionnelle</b> permet de mettre en évidence les différences de valeurs dans un tableau. Il est important de bien sélectionner la plage sur laquelle s'appliquera la mise en forme avant de la paramétrer. <br>
 La plus facile d’utilisation est celle des nuances de couleurs, qui va par exemple colorer les plus petites valeurs en rouge et les plus grandes en vert. Dans « <b>Gérer les règles</b> », on peut personnaliser des règles de mise en forme, notamment pour les cellules contenant du texte. <br>
-Plus d'informations [ici](options-avancees). </p>
+Plus d'informations <a href="mise-en-forme-conditionnelle" target="_same" title="Mise en forme conditionnelle">ici</a>. </p>
 
-<hr/>
 <br>
+<hr />
 
 <center> <img width=350 src="images/effacer.jpg" alt="Effacer" /> </center>
 
@@ -88,8 +88,8 @@ Plus d'informations [ici](options-avancees). </p>
 - <b>Effacer les formats</b> pour garder le contenu avec un format par défaut
 - <b>Effacer le contenu</b> pour garder le format mais supprimer le contenu
 
-<hr/>
 <br>
+<hr />
 
 <h3>Trier et filtrer</h3> 
 
