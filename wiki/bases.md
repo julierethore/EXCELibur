@@ -10,6 +10,7 @@ A1 | La cellule située au croisement entre la colonne 1 et la ligne 1
 AI:A10 | Toutes les cellules comprises entre A1 et A10
 B1;B3;B8 | Seulement les cellules B1, B3 et B8
 
+
 Formule | Résultat
 :-----:|:----
 =C1+C6 | Additionne la valeur de C1 et la valeur de C6
@@ -79,8 +80,8 @@ Pour « **Filtrer** », il faut sélectionner les colonnes concernées : sur cet
 
 ----------
 
-<a href:"bases.md">Page suivante : Options avancées </a>
-<a href:"index.md">Retour à l'index </a>
+<a href="bases.md">Page suivante : Options avancées </a>
+<a href="index.md">Retour à l'index </a>
 
 
 
