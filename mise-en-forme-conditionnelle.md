@@ -19,8 +19,8 @@ La plus facile d’utilisation est celle des nuances de couleurs, qui va par exe
 
 <p>Avant de créer une nouvelle règle de mise en forme, il faut veiller à sélectionner toutes les cellules qui seront concernées. On peut choisir d'utiliser une formule afin de déterminer pour quelles cellules (parmi la sélection) le format sera appliqué. <br>
 
+<br>
+<hr/>
+<br>
 
-
-----------
-
-<center> <a href="options-avancees.md" target="self" title="Tests logiques"><< Tests logiques - Page précédente</a> << • • • >> <a href="index.md" target="self" title="Index">Page suivante - Retour à l'index >></a> </center>
+<center> <a href="options-avancees" target="self" title="Tests logiques"><< Tests logiques - Page précédente</a> << • • • >> <a href="index" target="self" title="Index">Page suivante - Retour à l'index >></a> </center>
