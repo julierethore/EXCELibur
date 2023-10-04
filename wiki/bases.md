@@ -20,3 +20,4 @@ Formule | Résultat
 '=E7/E2 | Affiche « =E7/E2 » en texte dans la cellule sans produire le calcul
 
 ## Barre d'outils
+![img](alignement.jpg "Alignement")
