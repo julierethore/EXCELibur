@@ -1,4 +1,6 @@
-<body bgcolor="#000000">
+body{
+  background-color:black;
+}
   
 <script type="text/javascript">
 // <![CDATA[
@@ -171,4 +173,4 @@ function createDiv(height, width) {
 }
 // ]]>
 </script>
-</body>
+
