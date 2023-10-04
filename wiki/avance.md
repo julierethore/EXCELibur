@@ -1,6 +1,6 @@
 # Options avancées : formules complexes
 
-## La fonction =SI(;;)
+## La fonction =SI(
 
 Elle permet d'effectuer un test logique. Si le test est vérifié, la cellule affichera une valeur prédéfinie ; si le test échoue, la cellule affichera une autre valeur.
 
@@ -10,10 +10,17 @@ Par exemple, pour vérifier si les cellules de la colonne A sont positives ou n�
 ~~~
 =SI(A1>0;"Positif";"Négatif")
 ~~~
+Il faudra ensuite "tirer" la cellule pour que la formule s'applique sur toutes les cellules de la colonne B.
+
 Deuxième exemple : knjkjbkjjk
 ~~~
 =SI(rknrere)
 ~~~
+
+----------
+## La fonction =SI(ET(
+
+bankzfeefirefo
 
 ----------
 
