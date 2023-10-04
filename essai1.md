@@ -10,6 +10,7 @@ essai essai essai
 
 <center> <font color="#34623f" size="200px"> this is the index </font> </center>
 
+
 [cliquez ici](/wiki/bases.md)
 ---------
 [lien vers page1](dossier/page1.md)
@@ -19,6 +20,34 @@ essai essai essai
 ~~~
 _abcdef_
 ~~~
+
+<label for="file">Progression :</label>
+<progress id="file" max="100" value="70">70%</progress>
+
+
+    Span Elements
+        Emphasis ✔️
+        Strikethrough ✔️
+        Preformatted code ✔️
+        Links ✔️
+        Images ✔️
+    Block Elements
+        Headings ✔️
+        Paragraphs and blockquotes ✔️
+        Lists ✔️
+        Tables ✔️
+        Code and Syntax highlighting ✔️
+        Horizontal rules ✔️
+
+<hr/>
+
+1. [Premiers pas](premiers-pas.md) ✔️
+2. [Tests logiques](options-avancees.md) ✔️
+3. [Mise en forme conditionnelle](mise-en-forme-conditionnelle.md) ✔️
+4. ~~Graphiques~~ 🚫 (non disponible)
+5. ~~Tableau croisé dynamique~~ 🚫 (non disponible)
+6. [Autres fonctions](autres-fonctions.md) ✔️
+
 
 <ul>
   <li>Bidouilleuses</li>
