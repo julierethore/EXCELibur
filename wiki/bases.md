@@ -23,7 +23,7 @@ Formule | Résultat
 
 Un fichier Excel s’appelle un classeur, et il peut être composé de plusieurs feuilles, ce qui facilite la navigation entre différents tableaux. On peut ajouter des feuilles sur la barre de navigation, en bas. Il est aussi possible de les déplacer pour changer leur ordre, ou de les renommer pour s’y retrouver plus facilement.
 
-![img](/wiki/jpg/feuilles.JPG "Feuilles")
+![img](jpg/feuilles.JPG "Feuilles")
 
 -------
 
@@ -31,7 +31,7 @@ Dans l'onglet **Accueil**, la partie *Alignement* permet d'ordonner le texte dan
 On peut aligner le texte à gauche, à droite, ou au milieu ; en haut, en bas ou au centre de la cellule.
 On peut orienter le texte dans différentes direction, et paramétrer un retour à la ligne automatique.
 
-![img](/wiki/jpg/alignement.jpg "Alignement")
+![img](jpg/alignement.jpg "Alignement")
 
 -------
 
@@ -39,12 +39,12 @@ La partie *Nombre* permet de configurer le format de nombre : ci-dessous, la cel
 
 <center> <img src="/wiki/jpg/nombre.jpg" alt="Nombre" /> </center>
 
-![img](/wiki/jpg/nombre1.jpg "<- ,OO") <br>
+![img](jpg/nombre1.jpg "<- ,OO") <br>
 On peut ajuster la quantité de nombres après la virgule à afficher. Par exemple, si on entre dans une cellule « =10/3 », elle s'affiche normalement « 3,3333333 », mais on peut la paramétrer pour qu'elle affiche seulement deux chiffres après la virgule : « 3,33 ».
 
 ------
 
-![img](/wiki/jpg/mise_en_forme_conditionnelle.jpg "Mise en forme conditionnelle")
+![img](jpg/mise_en_forme_conditionnelle.jpg "Mise en forme conditionnelle")
 
 **La mise en forme conditionnelle** permet de mettre en évidence les différences de valeurs dans un tableau. <br>
 La plus facile d’utilisation est celle des nuances de couleurs, qui va par exemple colorer les plus petites valeurs en rouge et les plus grandes en vert. <br>
@@ -52,7 +52,7 @@ Dans « **Gérer les règles** », on peut personnaliser des règles de mise en 
 
 ----------
 
-![img](/wiki/jpg/effacer.jpg "Effacer") Dans la partie *Édition*, on peut :
+![img](jpg/effacer.jpg "Effacer") Dans la partie *Édition*, on peut :
 - **Effacer tout** pour vider complètement les cellules
 - **Effacer les formats** pour garder le contenu avec un format par défaut
 - **Effacer le contenu** pour garder le format mais supprimer le contenu
@@ -61,7 +61,7 @@ Dans « **Gérer les règles** », on peut personnaliser des règles de mise en 
 
 ### Trier et filtrer
 
-![ABC](jpg/selection_filtre.jpg "Sélection filtre")
+![img](jpg/selection_filtre.jpg "Sélection filtre")
 
 Pour trier un tableau, bien sélectionner toutes les cellules concernées, afin qu’une colonne ne soit pas triée toute seule sans être accompagnée du reste des informations de chaque ligne. Sur cet exemple, la sélection de cellules est grisée et bordée de vert, et les lignes et colonnes concernées sont foncées.
 
