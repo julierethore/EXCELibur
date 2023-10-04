@@ -79,7 +79,7 @@ Pour « **Filtrer** », il faut sélectionner les colonnes concernées : sur cet
 
 ----------
 
-<a href:"essai1.md">Page suivante : Options avancées </a>
+<a href:"bases.md">Page suivante : Options avancées </a>
 <a href:"index.md">Retour à l'index </a>
 
 
