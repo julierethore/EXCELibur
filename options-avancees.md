@@ -34,7 +34,7 @@
 
 <center> <i>Exemple 2</i> </center>
 
-<p>Par exemple, on veut vérifier dans une liste de clients ceux qui ont passé au moins 10 commandes dans la colonne A, **et** qui ont dépensé plus de 500 € dans la colonne B, **et** qui ont validé leur inscription dans la colonne C. </p>
+<p>Par exemple, on veut vérifier dans une liste de clients ceux qui ont passé au moins 10 commandes dans la colonne A, <b>et</b> qui ont dépensé plus de 500 € dans la colonne B, <b>et</b> qui ont validé leur inscription dans la colonne C. </p>
 ~~~
 =ET(A1>=10;B1>500;C1="OUI")
 ~~~
