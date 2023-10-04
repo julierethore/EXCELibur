@@ -20,6 +20,8 @@ Formule | Résultat
 =MOYENNE(A1:A10) | Calcule la moyenne des valeurs des cellules comprises entre A1 et A10
 '=E7/E2 | Affiche « =E7/E2 » en texte dans la cellule sans produire le calcul
 
+--------
+
 ## Barre d'outils : onglet ACCUEIL
 
 Un fichier Excel s’appelle un classeur, et il peut être composé de plusieurs feuilles, ce qui facilite la navigation entre différents tableaux. On peut ajouter des feuilles sur la barre de navigation, en bas. Il est aussi possible de les déplacer pour changer leur ordre, ou de les renommer pour s’y retrouver plus facilement.
@@ -38,8 +40,8 @@ On peut orienter le texte dans différentes direction, et paramétrer un retour 
 
 La partie *Nombre* permet de configurer le format de nombre : ci-dessous, la cellule sélectionnée contient seulement « 1969 » et ce nombre s'affichera différemment en fonction du format choisi.
 
-<center> <img src="jpg/nombre.jpg" alt="Nombre" /> <br>
-<img src="jpg/nombre1.jpg" alt="<- ,OO" /> </center> <br>
+<center> <img src="jpg/nombre1.jpg" alt="<- ,OO" /> </center> <br>
+<img src="jpg/nombre.jpg" alt="Nombre" /> <br>
 On peut ajuster la quantité de nombres après la virgule à afficher. Par exemple, si on entre dans une cellule « =10/3 », elle s'affiche normalement « 3,3333333 », mais on peut la paramétrer pour qu'elle affiche seulement deux chiffres après la virgule : « 3,33 ».
 
 ------
@@ -77,7 +79,8 @@ Pour « **Filtrer** », il faut sélectionner les colonnes concernées : sur cet
 
 ----------
 
-
+<a href:"essai1.md">Page suivante : Options avancées </a>
+<a href:"index.md">Retour à l'index </a>
 
 
 
