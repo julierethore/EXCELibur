@@ -5,8 +5,8 @@
 1. [Premiers pas](premiers-pas.md) ✔️
 2. [Tests logiques](options-avancees.md) ✔️
 3. [Mise en forme conditionnelle](mise-en-forme-conditionnelle.md) ✔️
-4. ~~Graphiques~~ (non disponible) 🚫
-5. ~~Tableau croisé dynamique~~ (non disponible) 🚫
+4. ~~Graphiques~~ 🚫 (non disponible)
+5. ~~Tableau croisé dynamique~~ 🚫 (non disponible)
 6. [Autres fonctions](autres-fonctions.md) ✔️
 
 <h2>Késako ?</h2>
