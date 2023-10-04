@@ -1,10 +1,8 @@
-body{
-  background-color:black;
-}
+<body bgcolor="#212121">
   
 <script type="text/javascript">
 // <![CDATA[
-var colour="#000000";
+var colour="#FFFFFF";
 var sparkles=150;
 
 /****************************
