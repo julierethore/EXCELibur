@@ -108,7 +108,9 @@ Plus d'informations [ici](options-avancees). </p>
 
 > *Remarque* : un tri modifie l’ordre des cellules, et un filtre dissimule des lignes sans les supprimer.
 
-----------
+<br>
+<hr/>
+<br>
 
-<center> <a href="index.md" target="self" title="Index"><< Retour à l'index - Page précédente</a> << • • • >> <a href="options-avancees" target="self" title="Tests logiques">Page suivante - Tests logiques >></a> </center>
+<center> <a href="index" target="self" title="Index"><< Retour à l'index - Page précédente</a> << • • • >> <a href="options-avancees" target="self" title="Tests logiques">Page suivante - Tests logiques >></a> </center>
 
