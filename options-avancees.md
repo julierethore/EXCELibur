@@ -25,7 +25,7 @@ Ces fonctions renvoient "VRAI" ou "FAUX" selon les conditions remplies. Pour la 
 > **=ET(** condition 1 ; condition 2 ; etc. ) <br>
 > **=OU(** condition 1 ; condition 2 ; etc. )
 
-<center> <img src="images/fonction_etou" alt="Exemple 2" /> <br>
+<center> <img src="images/fonction_etou.JPG" alt="Exemple 2" /> <br>
 <i>Exemple 2</i> </center> <br>
 
 Par exemple, on veut vérifier dans une liste de clients ceux qui ont passé au moins 10 commandes dans la colonne A, **et** qui ont dépensé plus de 500 € dans la colonne B, **et** qui ont validé leur inscription dans la colonne C. <br>
