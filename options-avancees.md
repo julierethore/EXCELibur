@@ -24,6 +24,6 @@ bankzfeefirefo
 
 ----------
 
-[<< Premiers pas - Page précédente](bases.md) ••• [Page suivante - Autres >>](essai1.md)
+[<< Premiers pas - Page précédente](premiers-pas.md) ••• [Page suivante - Autres >>](autres-fonctions.md)
 
 
