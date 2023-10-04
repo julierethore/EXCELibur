@@ -20,4 +20,21 @@ Formule | Résultat
 '=E7/E2 | Affiche « =E7/E2 » en texte dans la cellule sans produire le calcul
 
 ## Barre d'outils
-![img](alignement.jpg "Alignement")
+
+![img](/wiki/jpg/alignement.jpg "Alignement")
+![img](/wiki/jpg/effacer.jpg "Effacer")
+![img](/wiki/jpg/feuilles.JPG "Feuilles")
+![img](/wiki/jpg/mise%en%forme%conditionnelle.jpg "Mise en forme conditionnelle")
+![img](/wiki/jpg/nombre.jpg "Nombre")
+![img](/wiki/jpg/nombre1.jpg "Nombre")
+![img](/wiki/jpg/r&#xE9;pertoire.jpg "Répertoire")
+![img](/wiki/jpg/sélectionfiltre.jpg "Sélection filtre")
+![img](/wiki/jpg/tri.jpg "Tri personnalisé")
+
+
+
+
+
+
+
+
