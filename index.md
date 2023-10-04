@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title> EXCELibur </title>
+    <title> ⚔️ EXCELibur ⚔️ </title>
   </head>
   
 <h1 align="center" font-color="#389E46" size="500px"> <b> TUTORIELS EXCEL </b> </h1>
