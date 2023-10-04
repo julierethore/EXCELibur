@@ -2,12 +2,12 @@
 
 <h2>Plan du site</h2>
 
-1. [Premiers pas](premiers-pas.md)
-2. [Tests logiques](options-avancees.md)
-3. [Mise en forme conditionnelle](mise-en-forme-conditionnelle.md)
-4. ~~Graphiques~~ (non disponible)
-5. ~~Tableau croisé dynamique~~ (non disponible)
-6. [Autres fonctions](autres-fonctions.md)
+1. [Premiers pas](premiers-pas.md) ✔️
+2. [Tests logiques](options-avancees.md) ✔️
+3. [Mise en forme conditionnelle](mise-en-forme-conditionnelle.md) ✔️
+4. ~~Graphiques~~ (non disponible) 🚫
+5. ~~Tableau croisé dynamique~~ (non disponible) 🚫
+6. [Autres fonctions](autres-fonctions.md) ✔️
 
 <h2>Késako ?</h2>
 
@@ -23,6 +23,21 @@
 ~~~
 _abcdef_
 ~~~
+
+
+    Span Elements
+        Emphasis ✔️
+        Strikethrough ✔️
+        Preformatted code ✔️
+        Links ✔️
+        Images ✔️
+    Block Elements
+        Headings ✔️
+        Paragraphs and blockquotes ✔️
+        Lists ✔️
+        Tables ✔️
+        Code and Syntax highlighting ✔️
+        Horizontal rules ✔️
 
 <ul>
   <li>Bidouilleuses</li>
