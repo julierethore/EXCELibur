@@ -1,6 +1,6 @@
 <h1> Les tests logiques </h1>
 
-<h2> La fonction =SI( </h2>
+<h2> ⚔️ La fonction =SI( </h2>
 
 <p>Elle permet d'effectuer un test logique. Si le test est vérifié, la cellule affichera une valeur prédéfinie ; si le test échoue, la cellule affichera une autre valeur.</p>
 
@@ -20,7 +20,7 @@
 <br>
 <br>
 
-<h2> Les fonctions =ET( et =OU( </h2>
+<h2> ⚔️ Les fonctions =ET( et =OU( </h2>
 
 <p>Ces fonctions renvoient "VRAI" ou "FAUX" selon les conditions remplies. Pour la fonction ET, toutes les conditions doivent être remplies pour valider le test. Pour la fonction OU, une seule des conditions est nécessaire.</p>
 
@@ -41,7 +41,7 @@
 <br>
 <br>
 
-<h2> Les fonctions =SI( imbriquées </h2>
+<h2> ⚔️ Les fonctions =SI( imbriquées </h2>
 
 <p>On peut imbriquer dans une fonction SI des formules ET/OU afin de créer des tests plus complexes qui dépendent d'un plus grand nombre de conditions. Ainsi, on utilise la vérification de conditions en "VRAI" ou "FAUX" des fonctions ET/OU pour programmer une fonction SI adaptée.</p>
 
@@ -70,5 +70,5 @@
 <hr/>
 <br/>
 
-<center> <a href="premiers-pas" target="self" title="Premiers pas"><< Premiers pas - Page précédente</a> << • • • >> <a href="mise-en-forme-conditionnelle" target="self" title="Mise en forme conditionnelle">Page suivante - Mise en forme conditionnelle >></a> </center>
+<center> <a href="premiers-pas" target="self" title="Premiers pas"><< Premiers pas - Page précédente</a> << • ⚔️ • >> <a href="mise-en-forme-conditionnelle" target="self" title="Mise en forme conditionnelle">Page suivante - Mise en forme conditionnelle >></a> </center>
 
