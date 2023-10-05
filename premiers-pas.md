@@ -133,5 +133,5 @@ On peut orienter le texte dans différentes direction, et paramétrer un retour 
 <hr/>
 <br>
 
-<center> <a href="index" target="self" title="Index"><< Retour à l'index - Page précédente</a> << • • • >> <a href="options-avancees" target="self" title="Tests logiques">Page suivante - Tests logiques >></a> </center>
+<center> <a href="index" target="self" title="Index"><< Retour à l'index - Page précédente</a> << • ⚔️ • >> <a href="options-avancees" target="self" title="Tests logiques">Page suivante - Tests logiques >></a> </center>
 
