@@ -1,8 +1,5 @@
 <html>
-  <head>
-    <title> ⚔️ EXCELibur ⚔️ </title>
-  </head>
-  
+
 <h1 align="center" font-color="#389E46" size="500px"> <b> TUTORIELS EXCEL </b> </h1>
 
 <h2> ⚔️ Plan du site</h2>
@@ -22,5 +19,5 @@
 <br>
 <hr/>
 <br>
-<center>• • •</center>
+<center>• ⚔️ •</center>
 </html>
