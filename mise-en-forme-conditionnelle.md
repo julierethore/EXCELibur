@@ -1,6 +1,6 @@
 <h1>La mise en forme conditionnelle personnalisée</h1>
 
-<h2><i>Rappel des bases :</i></h2>
+<h2>⚔️ <i>Rappel des bases :</i></h2>
 
 <center> <img width=500 src="images/mise_en_forme_conditionnelle.jpg" alt="Mise en forme conditionnelle" /> </center>
 
@@ -16,7 +16,7 @@
 <br>
 <hr />
 
-<h2>Règles avec formule</h2>
+<h2>⚔️ Règles avec formule</h2>
 
 <p>Avant de créer une nouvelle règle de mise en forme, il faut veiller à sélectionner toutes les cellules qui seront concernées. On peut choisir d'utiliser une formule afin de déterminer pour quelles cellules (parmi la sélection) le format sera appliqué. <br>
 
@@ -37,4 +37,4 @@
 <hr/>
 <br>
 
-<center> <a href="options-avancees" target="self" title="Tests logiques"><< Tests logiques - Page précédente</a> << • • • >> <a href="index" target="self" title="Index">Page suivante - Retour à l'index >></a> </center>
+<center> <a href="options-avancees" target="self" title="Tests logiques"><< Tests logiques - Page précédente</a> << • ⚔️ • >> <a href="index" target="self" title="Index">Page suivante - Retour à l'index >></a> </center>
