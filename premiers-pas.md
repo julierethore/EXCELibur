@@ -1,4 +1,4 @@
-<h2>Quelques formulations basiques</h2> 
+<h2>⚔️ Quelques formulations basiques</h2> 
 
 <center> <table>
   <tbody>
@@ -78,7 +78,7 @@
 <br>
 <hr />
 
-<h2> Barre d'outils : onglet ACCUEIL </h2>
+<h2>⚔️ Barre d'outils : onglet ACCUEIL </h2>
 
 <p>Un fichier Excel s’appelle un classeur, et il peut être composé de plusieurs feuilles, ce qui facilite la navigation entre différents tableaux. On peut ajouter des feuilles sur la barre de navigation, en bas. Il est aussi possible de les déplacer pour changer leur ordre, ou de les renommer pour s’y retrouver plus facilement.</p>
 
