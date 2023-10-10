@@ -19,6 +19,17 @@ Si, à partir d'une cellule au format de date, on veut isoler dans une autre cel
 <blockquote> <b>=ANNEE(</b> date ou valeur numérique ) <br>
 <b>=MOIS(</b> date ou valeur numérique ) </blockquote>
 
+La même formule s'applique pour le <b>JOUR</b>, l'<b>HEURE</b>, la <b>MINUTE</b> et la <b>SECONDE</b>.
+
+<p>Voici d'autres fonctions de dates utiles :</p>
+
+<blockquote> <b>=AUJOURDHUI()</b> </blockquote>
+<p>Renvoie la date du jour. Les parenthèses doivent rester vides.</p>
+<blockquote> <b>=JOURS(</b> date 1 ; date 2) </blockquote>
+<p>Calcule le nombre de jours entre deux dates.</p>
+<blockquote> <b>=NB.JOURS.OUVRES(</b> date 1 ; date 2) </blockquote>
+<p>Calcule le nombre de jours ouvrés entiers compris entre deux dates.</p>
+
 <br>
 
 <h2>⚔️ La fonction =TEXTE( </h2> 
@@ -37,7 +48,7 @@ Si, à partir d'une cellule au format de date, on veut isoler dans une autre cel
 <pre>=TEXTE(A1;"0000")</pre>
 <p>Cette formule convertit la valeur de la cellule A1 en un texte composé au minimum de 4 chiffres. <br>
 Si A1 = 9 alors la fonction affichera <code>0009</code>. Mais si A1 = 42,1 alors elle affichera <code>0042</code>.</p>
-<pre>=TEXTE(A1;"#,00"</pre>
+<pre>=TEXTE(A1;"#,00")</pre>
 <p>Cette formule convertir la valeur de la cellule A1 en un texte composé d'au moins deux décimales. <br>
 Si A1 = 7,8 alors la fonction affichera <code>7,80</code>. Mais si A1 = 0,6789 alors elle affichera <code>,68</code>.</p>
 
