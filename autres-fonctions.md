@@ -62,6 +62,15 @@ Si A1 = 7,8 alors la fonction affichera <code>7,80</code>. Mais si A1 = 0,6789 a
 <blockquote> <b>=ALEA.ENTRE.BORNES( </b> nombre minimum ; nombre maximum )</blockquote>
 <p>Cette variante permet de générer un nombre <b>entier</b> aléatoire entre deux bornes choisies.</p>
 
+<br>
+
+<h2>⚔️ Les fonctions d'arrondis </h2>
+
+<blockquote> <b>=ARRONDI(</b> valeur ; nombre de décimales ) <br>
+<b>=ARRONDI.INF(</b> valeur ; nombre de décimales ) <br>
+<b>=ARRONDI.SUP(</b> valeur ; nombre de décimales ) <br> </blockquote>
+
+<p>Ces fonctions permettent d'arrondir des nombres à virgules. On peut choisir d'arrondir systématiquement à la valeur inférieure ou supérieure.</p>
 
 <br>
 <hr/>
