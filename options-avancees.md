@@ -18,6 +18,12 @@
 <p>Il faudra ensuite "tirer" la cellule pour que la formule s'applique sur toutes les cellules de la colonne B.</p>
 
 <br>
+<center> <i>Exemple 2</i> </center>
+
+<p>Je veux savoir si mon semestre est validé. Pour cela, je calcule ma moyenne : c'est mon test logique. Deux résultats sont possibles : soit j'ai la moyenne, doncc le test est réussi, et je valide mon semestre (c'est la valeur si VRAI), soit je n'ai pas la moyenne, donc le test échoue, et je ne valide pas mon semestre (c'est la valeur si FAUX).</p>
+<pre>=SI(MOYENNE(A1;A10)>=10;"Semestre validé";"Semestre non validé")</pre>
+
+<br>
 <br>
 
 <h2> ⚔️ Les fonctions =ET( et =OU( </h2>
