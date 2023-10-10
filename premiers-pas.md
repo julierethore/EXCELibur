@@ -35,6 +35,10 @@
       <td> <p> Divise la valeur de E7 par la valeur de E2</p> </td>
     </tr>
     <tr>
+      <td align="center"> <code>=F5^2</code></td>
+      <td> <p> Calcule la valeur de F5 au carré</p> </td>
+    </tr>
+    <tr>
       <td align="center"> <code>=SOMME(A1:A10)</code></td>
       <td> <p> Additionne toutes les valeurs des cellules comprises entre A1 et A10</p> </td>
     </tr>
@@ -49,6 +53,18 @@
     <tr>
       <td align="center"> <code>'=E7/E2</code></td>
       <td> <p> Affiche « =E7/E2 » en texte dans la cellule sans produire le calcul</p> </td>
+    </tr>
+    <tr>
+      <td align="center"> <code>$K1</code></td>
+      <td> <p> Fixe la colonne K</p> </td>
+    </tr>
+    <tr>
+      <td align="center"> <code>K$1</code></td>
+      <td> <p> Fixe la ligne 1</p> </td>
+    </tr>
+    <tr>
+      <td align="center"> <code>$K$1</code></td>
+      <td> <p> Fixe la cellule K1 </p> </td>
     </tr>
   </tbody>
 </table> </center>
