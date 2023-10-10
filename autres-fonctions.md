@@ -56,5 +56,5 @@ Si A1 = 7,8 alors la fonction affichera <code>7,80</code>. Mais si A1 = 0,6789 a
 <hr/>
 <br>
 
-<center> <a href="index" target="_self" title="Index"><< Retour à l'index - Page précédente</a> << • ⚔️ • >> 
-  <a href="options-avancees" target="_self" title="Tests logiques">Page suivante - Tests logiques >></a> </center>
+<center>  <a href="mise-en-forme-conditionnelle" target="_self" title="Mise en forme conditionnelle"><< Mise en forme conditionnelle - Page précédente</a> << • ⚔️ • >> 
+  <a href="index" target="_self" title="Index">Page suivante - Retour à l'index >></a> </center>
