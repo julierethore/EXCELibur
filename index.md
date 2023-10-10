@@ -14,7 +14,7 @@
 
 <h2> ⚔️ Késako ?</h2>
 
-<p>Ce site est un petit registre non-exhaustif de tutoriels d'utilisation des tableurs Excel. Il s'efforce de répertorier les fonctionnalités les plus utiles et de les expliquer pour les rendre accessibles aux débutants. S'il devait être développé plus encore, ce serait pour tendre à une exhaustivité des fonctionnalités offertes par le logiciel, et peut-être même pour proposer des exercices de mise en pratique avec des corrigés explicatifs.</p>
+<p>Ce site est un petit registre non-exhaustif de fiches de révision sur les tableurs Excel. Il s'efforce de répertorier les fonctionnalités les plus utiles et de les expliquer pour les rendre accessibles aux débutants. S'il devait être développé plus encore, ce serait pour tendre à une exhaustivité des fonctionnalités offertes par le logiciel, et peut-être même pour proposer des exercices de mise en pratique avec des corrigés explicatifs.</p>
 
 <br>
 <hr/>
