@@ -6,7 +6,7 @@
 
 <p>
 1. <a href="premiers-pas" target="_self">Premiers pas</a> <br>
-2. <a href="options-avancees" target="_self">Tests logiques</a> <br>
+2. <a href="tests-logiques" target="_self">Tests logiques</a> <br>
 3. <a href="mise-en-forme-conditionnelle" target="_self">Mise en forme conditionnelle</a> <br>
 4. <s>Graphiques</s> (non disponible) <br>
 5. <s>Tableau croisé dynamique</s> (non disponible)
