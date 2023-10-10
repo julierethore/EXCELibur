@@ -1,4 +1,4 @@
-<h1> Les tests logiques </h1>
+<font color="#389E46"> <h1> Les tests logiques </h1> </font>
 
 <h2> ⚔️ La fonction =SI( </h2>
 
@@ -101,5 +101,5 @@
 <hr/>
 <br/>
 
-<center> <a href="premiers-pas" target="_self" title="Premiers pas"><< Premiers pas - Page précédente</a> << • ⚔️ • >> <a href="mise-en-forme-conditionnelle" target="_self" title="Mise en forme conditionnelle">Page suivante - Mise en forme conditionnelle >></a> </center>
+<center> <font color="#389E46"> <a href="premiers-pas" target="_self" title="Premiers pas"> << Premiers pas - Page précédente </a> << • ⚔️ • >> <a href="mise-en-forme-conditionnelle" target="_self" title="Mise en forme conditionnelle"> Page suivante - Mise en forme conditionnelle >></a> </font> </center>
 
