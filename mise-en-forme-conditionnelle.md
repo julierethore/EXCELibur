@@ -37,4 +37,4 @@
 <hr/>
 <br>
 
-<center> <a href="options-avancees" target="self" title="Tests logiques"><< Tests logiques - Page précédente</a> << • ⚔️ • >> <a href="index" target="self" title="Index">Page suivante - Retour à l'index >></a> </center>
+<center> <a href="tests-logiques" target="self" title="Tests logiques"><< Tests logiques - Page précédente</a> << • ⚔️ • >> <a href="index" target="self" title="Index">Page suivante - Retour à l'index >></a> </center>
