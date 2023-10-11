@@ -106,7 +106,7 @@
 
 <p>En haut, dans l'onglet <b>Accueil</b>, la partie <i>Alignement</i> permet d'ordonner le texte dans la cellule. <br>
 On peut aligner le texte à gauche, à droite, ou au milieu ; en haut, en bas ou au centre de la cellule. <br>
-On peut orienter le texte dans différentes direction, et paramétrer un retour à la ligne automatique. </p>
+On peut orienter le texte dans différentes directions, et paramétrer un retour à la ligne automatique. </p>
 
 <center> <img width=600 src="images/alignement.jpg" alt="Alignement" /> </center>
 
