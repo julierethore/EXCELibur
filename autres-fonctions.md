@@ -48,10 +48,10 @@ La même formule s'applique pour le <b>JOUR</b>, l'<b>HEURE</b>, la <b>MINUTE</b
 <p>Voici quelques exemples simples : </p>
 
 <pre>=TEXTE(A1;"0000")</pre>
-<p>Cette formule convertit la valeur de la cellule A1 en un texte composé au minimum de 4 chiffres. <br>
+<p>Cette formule convertit la valeur de la cellule A1 en un texte composé au minimum de 4 chiffres entiers. <br>
 Si A1 = 9 alors la fonction affichera <code>0009</code>. Mais si A1 = 42,1 alors elle affichera <code>0042</code>.</p>
 <pre>=TEXTE(A1;"#,00")</pre>
-<p>Cette formule convertir la valeur de la cellule A1 en un texte composé d'au moins deux décimales. <br>
+<p>Cette formule convertit la valeur de la cellule A1 en un texte contenant un nombre d'au moins deux décimales. <br>
 Si A1 = 7,8 alors la fonction affichera <code>7,80</code>. Mais si A1 = 0,6789 alors elle affichera <code>,68</code>.</p>
 
 <br>
