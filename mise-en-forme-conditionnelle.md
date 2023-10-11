@@ -1,4 +1,4 @@
-<h1>La mise en forme conditionnelle personnalisée</h1>
+<h1> <font color="#389E46"> La mise en forme conditionnelle personnalisée </font> </h1>
 
 <h2>⚔️ <i>Rappel des bases :</i></h2>
 
@@ -37,4 +37,4 @@
 <hr/>
 <br>
 
-<center> <a href="tests-logiques" target="self" title="Tests logiques"><< Tests logiques - Page précédente</a> << • ⚔️ • >> <a href="autres-fonctions" target="_self" title="Autres fonctions">Page suivante - Autres fonctions >></a> </center>
+<center> <a href="tests-logiques" target="self" title="Tests logiques"> <font color="#389E46"> << Tests logiques - Page précédente </font> </a> << • ⚔️ • >> <a href="autres-fonctions" target="_self" title="Autres fonctions"> <font color="#389E46"> Page suivante - Autres fonctions >> </font> </a> </center>
