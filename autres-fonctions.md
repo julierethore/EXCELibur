@@ -21,6 +21,8 @@ Si, à partir d'une cellule au format de date, on veut isoler dans une autre cel
 
 La même formule s'applique pour le <b>JOUR</b>, l'<b>HEURE</b>, la <b>MINUTE</b> et la <b>SECONDE</b>.
 
+<br>
+
 <p>Voici d'autres fonctions de dates utiles :</p>
 
 <blockquote> <b>=AUJOURDHUI()</b> </blockquote>
