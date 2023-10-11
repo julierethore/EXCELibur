@@ -18,6 +18,8 @@
 <p>Il faudra ensuite "tirer" la cellule pour que la formule s'applique sur toutes les cellules de la colonne B.</p>
 
 <br>
+<center> <img width=200 src="images/moyenne.JPG" alt="Exemple 2" /> </center>
+
 <center> <i>Exemple 2</i> </center>
 
 <p>Je veux savoir si mon semestre est validé. Pour cela, je calcule ma moyenne : c'est mon test logique. Deux résultats sont possibles : soit j'ai la moyenne, donc le test est vérifié et je valide mon semestre (c'est la valeur si VRAI), soit je n'ai pas la moyenne, donc le test échoue et je ne valide pas mon semestre (c'est la valeur si FAUX).</p>
