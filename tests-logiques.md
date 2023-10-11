@@ -101,5 +101,5 @@
 <hr/>
 <br/>
 
-<center> <font color="#389E46"> <a href="premiers-pas" target="_self" title="Premiers pas"> << Premiers pas - Page précédente </a> << • ⚔️ • >> <a href="mise-en-forme-conditionnelle" target="_self" title="Mise en forme conditionnelle"> Page suivante - Mise en forme conditionnelle >></a> </font> </center>
+<center> <a href="premiers-pas" target="_self" title="Premiers pas"> <font color="#389E46"> << Premiers pas - Page précédente </font> </a> << • ⚔️ • >> <a href="mise-en-forme-conditionnelle" target="_self" title="Mise en forme conditionnelle"> <font color="#389E46"> Page suivante - Mise en forme conditionnelle >> </font> </a> </center>
 
