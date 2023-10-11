@@ -1,6 +1,6 @@
 <h1> <font color="#389E46"> La mise en forme conditionnelle personnalisée </font> </h1>
 
-<h2>⚔️ <i>Rappel des bases :</i></h2>
+<h2>⚔️ Rappel des bases</h2>
 
 <center> <img width=500 src="images/mise_en_forme_conditionnelle.jpg" alt="Mise en forme conditionnelle" /> </center>
 
