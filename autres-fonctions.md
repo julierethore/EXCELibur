@@ -75,6 +75,14 @@ Si A1 = 7,8 alors la fonction affichera <code>7,80</code>. Mais si A1 = 0,6789 a
 <p>Ces fonctions permettent d'arrondir des nombres à virgules. On peut choisir d'arrondir systématiquement à la valeur inférieure ou supérieure.</p>
 
 <br>
+
+<h2>⚔️ La fonction =CONCATENER( </h2>
+
+<blockquote> <b>=CONCATENER(</b> valeur ou formule ou "texte" ; etc. ; etc. ; etc. ) </blockquote>
+
+<p>Celle fonction permet d'assembler dans une même cellule un texte composé de plusieurs éléments, tels que la valeur d'une cellule, le résultat d'un calcul, ou un élément de texte.</p>
+
+<br>
 <hr/>
 <br>
 
