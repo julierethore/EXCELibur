@@ -12,10 +12,6 @@ Elle permet d'effectuer un test logique. Si le test est vérifié, la cellule af
 
 <center> <i>Exemple 1</i> </center>
 
-<center> ![Exemple 1](/images/fonction_si.JPG) </center>
-
-<center> *Exemple 1* </center>
-
 Par exemple, pour vérifier si les cellules de la colonne A sont positives ou négatives, on entrera dans la première cellule de la colonne B :
 
 ~~~
@@ -35,7 +31,7 @@ Je veux savoir si mon semestre est validé. Pour cela, je calcule ma moyenne : c
 =SI(MOYENNE(A1;A10)>=10;"Semestre validé";"Semestre non validé")
 ~~~
 
-
+* * *
 
 
 ## ⚔️ Les fonctions =ET( et =OU( 
@@ -72,20 +68,20 @@ On peut imbriquer dans une fonction SI des formules ET/OU afin de créer des tes
 
 
 
-Dans l'exemple 3, si on veut que seuls les clients ayant rempli <b>toutes</b> les conditions aient une réduction de 25% sur leur commande en colonne E, on entrera la formule suivante : </p>
+Dans l'exemple 3, si on veut que seuls les clients ayant rempli <b>toutes</b> les conditions aient une réduction de 25% sur leur commande en colonne E, on entrera la formule suivante :
 
 ~~~
 =SI(ET(A1>=10;B1>500;C1="OUI");E1*0,75;E1)
 ~~~
 
-Si on veut que tous les clients remplissant <b>au moins une</b> condition aient une réduction de 10%, on utilisera cette formule : </p>
+Si on veut que tous les clients remplissant <b>au moins une</b> condition aient une réduction de 10%, on utilisera cette formule :
 
 ~~~
 =SI(OU(A1<10;B1<500;C1="NON");E1;E1*0,90)
 ~~~
 
 
-
+* * *
 
 <center> <b>Si on veut que le test logique ait trois possibilités de résultats ou plus, il y a plusieurs solutions : </b> </center> </p> <br>
 
