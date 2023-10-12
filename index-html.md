@@ -10,7 +10,8 @@
 3. <a href="mise-en-forme-conditionnelle-html" target="_self"> <font color="#389E46"> Mise en forme conditionnelle </font> </a> <br>
 4. <a href="autres-fonctions-html" target="_self"> <font color="#389E46"> Autres fonctions </font> </a> <br>
 5. <s>Graphiques</s> (non disponible) <br>
-6. <s>Tableau croisé dynamique</s> (non disponible)
+6. <s>Tableau croisé dynamique</s> (non disponible) <br>
+  <li> <a href="index" target="_self"><font color="#389E46"> Site Markdown </font> </a> </li>
 </p>
 
 <br>
@@ -24,5 +25,7 @@
 <br>
 <hr/>
 <br>
+
 <center>• ⚔️ •</center>
+
 </html>
