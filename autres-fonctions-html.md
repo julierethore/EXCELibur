@@ -90,5 +90,5 @@ Si A1 = 7,8 alors la fonction affichera <code>7,80</code>. Mais si A1 = 0,6789 a
 <hr/>
 <br>
 
-<center>  <a href="mise-en-forme-conditionnelle" target="_self" title="Mise en forme conditionnelle"> <font color="#389E46"> << Mise en forme conditionnelle - Page précédente </font> </a> << • ⚔️ • >> 
-  <a href="index" target="_self" title="Index"> <font color="#389E46"> Page suivante - Retour à l'index >> </font> </a> </center>
+<center>  <a href="mise-en-forme-conditionnelle-html" target="_self" title="Mise en forme conditionnelle"> <font color="#389E46"> << Mise en forme conditionnelle - Page précédente </font> </a> << • ⚔️ • >> 
+  <a href="index-html" target="_self" title="Index"> <font color="#389E46"> Page suivante - Retour à l'index >> </font> </a> </center>
