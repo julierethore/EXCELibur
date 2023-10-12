@@ -5,10 +5,10 @@
 <h2> ⚔️ Plan du site</h2>
 
 <p>
-1. <a href="premiers-pas" target="_self"> <font color="#389E46"> Premiers pas </font> </a> <br>
-2. <a href="tests-logiques" target="_self"> <font color="#389E46"> Tests logiques </font> </a> <br>
-3. <a href="mise-en-forme-conditionnelle" target="_self"> <font color="#389E46"> Mise en forme conditionnelle </font> </a> <br>
-4. <a href="autres-fonctions" target="_self"> <font color="#389E46"> Autres fonctions </font> </a> <br>
+1. <a href="premiers-pas-html" target="_self"> <font color="#389E46"> Premiers pas </font> </a> <br>
+2. <a href="tests-logiques-html" target="_self"> <font color="#389E46"> Tests logiques </font> </a> <br>
+3. <a href="mise-en-forme-conditionnelle-html" target="_self"> <font color="#389E46"> Mise en forme conditionnelle </font> </a> <br>
+4. <a href="autres-fonctions-html" target="_self"> <font color="#389E46"> Autres fonctions </font> </a> <br>
 5. <s>Graphiques</s> (non disponible) <br>
 6. <s>Tableau croisé dynamique</s> (non disponible)
 </p>
