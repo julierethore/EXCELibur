@@ -37,4 +37,4 @@
 <hr/>
 <br>
 
-<center> <a href="tests-logiques" target="self" title="Tests logiques"> <font color="#389E46"> << Tests logiques - Page précédente </font> </a> << • ⚔️ • >> <a href="autres-fonctions" target="_self" title="Autres fonctions"> <font color="#389E46"> Page suivante - Autres fonctions >> </font> </a> </center>
+<center> <a href="tests-logiques-html" target="self" title="Tests logiques"> <font color="#389E46"> << Tests logiques - Page précédente </font> </a> << • ⚔️ • >> <a href="autres-fonctions-html" target="_self" title="Autres fonctions"> <font color="#389E46"> Page suivante - Autres fonctions >> </font> </a> </center>
