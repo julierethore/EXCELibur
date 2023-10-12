@@ -12,6 +12,10 @@ Elle permet d'effectuer un test logique. Si le test est vérifié, la cellule af
 
 <center> <i>Exemple 1</i> </center>
 
+<center> ![Exemple 1](/images/fonction_si.JPG) </center>
+
+<center> *Exemple 1* </center>
+
 Par exemple, pour vérifier si les cellules de la colonne A sont positives ou négatives, on entrera dans la première cellule de la colonne B :
 
 ~~~
