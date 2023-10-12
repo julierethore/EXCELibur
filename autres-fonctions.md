@@ -83,7 +83,7 @@ Si A1 = 7,8 alors la fonction affichera <code>7,80</code>. Mais si A1 = 0,6789 a
 <p>Celle fonction permet d'assembler dans une même cellule un texte composé de plusieurs éléments, tels que la valeur d'une cellule, le résultat d'un calcul, ou un élément de texte.</p>
 
 <center> <img width=500 src="images/concat.JPG" alt="Exemple 1" /> </center>
-<p>Dans cette exemple, on a voulu établir dans la colonne D un code d'identification pour chaque client à partir de sa date d'inscription et selon un format de texte particulier : <code>NOM_ANNEEMOIS</code>. On a utilisé une fonction TEXTE() pour que le mois s'affiche toujours en deux chiffres.</p>
+<p>Dans cet exemple, on a voulu établir dans la colonne D un code d'identification pour chaque client à partir de sa date d'inscription et selon un format de texte particulier : <code>NOM_ANNEEMOIS</code>. On a utilisé une fonction TEXTE() pour que le mois s'affiche toujours en deux chiffres.</p>
 <pre>=CONCATENER(B2;"_";ANNEE(C2);TEXTE(MOIS(C2);"00"))</pre>
 
 <br>
