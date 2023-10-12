@@ -1,24 +1,25 @@
 # Premiers pas
-  ## ⚔️ Quelques formulations basiques 
+
+## ⚔️ Quelques formulations basiques 
 
 Formule | Résultat
-------------------
-<code>A:A</code> | Toutes les cellules de la colonne A
-<code>1:1</code> | Toutes les cellules de la ligne 1
-<code>A1</code> | La cellule située au croisement entre la colonne 1 et la ligne 1
-<code>AI:A10</code> | Toutes les cellules comprises entre A1 et A10
-<code>B1;B3;B8</code> | Seulement les cellules B1, B3 et B8
-<code>=C1+C6</code> | Additionne la valeur de C1 et la valeur de C6
-<code>=D4*D5</code> | Multiplie la valeur de D4 par la valeur de D5
-<code>=E7/E2</code> | Divise la valeur de E7 par la valeur de E2
-<code>=F5^2</code> | Calcule la valeur de F5 au carré
-<code>=SOMME(A1:A10)</code> | Additionne toutes les valeurs des cellules comprises entre A1 et A10
-<code>=SOMME(A1:A10;B1)</code> | Additionne toutes les valeurs des cellules comprises entre A1 et A10, plus celle de B1
-<code>=MOYENNE(A1:A10)</code> | Calcule la moyenne des valeurs des cellules comprises entre A1 et A10
-<code>'=E7/E2</code> | Affiche « =E7/E2 » en texte dans la cellule sans produire le calcul
-<code>$K1</code> | Fixe la colonne K
-<code>K$1</code> | Fixe la ligne 1
-<code>$K$1</code> | Fixe la cellule K1 
+:--------:|---------
+A:A | Toutes les cellules de la colonne A
+1:1 | Toutes les cellules de la ligne 1
+A1 | La cellule située au croisement entre la colonne 1 et la ligne 1
+AI:A10 | Toutes les cellules comprises entre A1 et A10
+B1;B3;B8 | Seulement les cellules B1, B3 et B8
+=C1+C6 | Additionne la valeur de C1 et la valeur de C6
+=D4*D5 | Multiplie la valeur de D4 par la valeur de D5
+=E7/E2 | Divise la valeur de E7 par la valeur de E2
+=F5^2 | Calcule la valeur de F5 au carré
+=SOMME(A1:A10) | Additionne toutes les valeurs des cellules comprises entre A1 et A10
+=SOMME(A1:A10;B1) | Additionne toutes les valeurs des cellules comprises entre A1 et A10, plus celle de B1
+=MOYENNE(A1:A10) | Calcule la moyenne des valeurs des cellules comprises entre A1 et A10
+'=E7/E2 | Affiche « =E7/E2 » en texte dans la cellule sans produire le calcul
+$K1 | Fixe la colonne K
+K$1 | Fixe la ligne 1
+$K$1 | Fixe la cellule K1 
 
 Une fois la formule entrée dans une cellule, on peut la **tirer** en cliquant sur le carré en bas à gauche de la cellule pour appliquer la formule sur toute une colonne/ligne. La formule sera répétée automatiquement, mais les cellules concernées par le calcul vont changer en fonction de l'incrémentation.
 
@@ -85,8 +86,9 @@ La partie *Nombre* permet de configurer le format de nombre : ci-dessous, la cel
 
 <p> <img align=left width=200 src="images/nombre1.jpg" alt="<- ,OO" /> 
   On peut ajuster la quantité de nombres après la virgule à afficher. <br>
-  Par exemple, si on entre dans une cellule « =10/3 », elle s'affiche normalement « 3,3333333 », mais on peut la paramétrer pour qu'elle affiche seulement deux chiffres après la virgule : « 3,33 ». </p>
+  Par exemple, si on entre dans une cellule « =10/3 », elle s'affiche normalement « 3,3333333 », mais on peut la paramétrer pour qu'elle affiche seulement deux chiffres après la virgule : « 3,33 ». </p> 
 
+<br>
 
 * * *
 
