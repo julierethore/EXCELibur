@@ -1,74 +1,24 @@
 # Premiers pas
   ## ⚔️ Quelques formulations basiques 
 
-<center> <table>
-  <tbody>
-    <tr>
-      <td align="center"> <code>A:A</code></td>
-      <td> <p> Toutes les cellules de la colonne A</p> </td>
-    </tr>
-    <tr>
-      <td align="center"> <code>1:1</code></td>
-      <td> <p> Toutes les cellules de la ligne 1</p> </td>
-    </tr>
-    <tr>
-      <td align="center"> <code>A1</code></td>
-      <td> <p> La cellule située au croisement entre la colonne 1 et la ligne 1</p> </td>
-    </tr>
-    <tr>
-      <td align="center"> <code>AI:A10</code></td>
-      <td> <p> Toutes les cellules comprises entre A1 et A10</p> </td>
-    </tr>
-    <tr>
-      <td align="center"> <code>B1;B3;B8</code></td>
-      <td> <p> Seulement les cellules B1, B3 et B8 </p> </td>
-    </tr>
-    <tr>
-      <td align="center"> <code>=C1+C6</code></td>
-      <td> <p> Additionne la valeur de C1 et la valeur de C6</p> </td>
-    </tr>
-    <tr>
-      <td align="center"> <code>=D4*D5</code></td>
-      <td> <p> Multiplie la valeur de D4 par la valeur de D5</p> </td>
-    </tr>
-    <tr>
-      <td align="center"> <code>=E7/E2</code></td>
-      <td> <p> Divise la valeur de E7 par la valeur de E2</p> </td>
-    </tr>
-    <tr>
-      <td align="center"> <code>=F5^2</code></td>
-      <td> <p> Calcule la valeur de F5 au carré</p> </td>
-    </tr>
-    <tr>
-      <td align="center"> <code>=SOMME(A1:A10)</code></td>
-      <td> <p> Additionne toutes les valeurs des cellules comprises entre A1 et A10</p> </td>
-    </tr>
-    <tr>
-      <td align="center"> <code>=SOMME(A1:A10;B1)</code></td>
-      <td> <p> Additionne toutes les valeurs des cellules comprises entre A1 et A10, plus celle de B1</p> </td>
-    </tr>
-    <tr>
-      <td align="center"> <code>=MOYENNE(A1:A10)</code></td>
-      <td> <p> Calcule la moyenne des valeurs des cellules comprises entre A1 et A10</p> </td>
-    </tr>
-    <tr>
-      <td align="center"> <code>'=E7/E2</code></td>
-      <td> <p> Affiche « =E7/E2 » en texte dans la cellule sans produire le calcul</p> </td>
-    </tr>
-    <tr>
-      <td align="center"> <code>$K1</code></td>
-      <td> <p> Fixe la colonne K</p> </td>
-    </tr>
-    <tr>
-      <td align="center"> <code>K$1</code></td>
-      <td> <p> Fixe la ligne 1</p> </td>
-    </tr>
-    <tr>
-      <td align="center"> <code>$K$1</code></td>
-      <td> <p> Fixe la cellule K1 </p> </td>
-    </tr>
-  </tbody>
-</table> </center>
+Formule | Résultat
+------------------
+<code>A:A</code> | Toutes les cellules de la colonne A
+<code>1:1</code> | Toutes les cellules de la ligne 1
+<code>A1</code> | La cellule située au croisement entre la colonne 1 et la ligne 1
+<code>AI:A10</code> | Toutes les cellules comprises entre A1 et A10
+<code>B1;B3;B8</code> | Seulement les cellules B1, B3 et B8
+<code>=C1+C6</code> | Additionne la valeur de C1 et la valeur de C6
+<code>=D4*D5</code> | Multiplie la valeur de D4 par la valeur de D5
+<code>=E7/E2</code> | Divise la valeur de E7 par la valeur de E2
+<code>=F5^2</code> | Calcule la valeur de F5 au carré
+<code>=SOMME(A1:A10)</code> | Additionne toutes les valeurs des cellules comprises entre A1 et A10
+<code>=SOMME(A1:A10;B1)</code> | Additionne toutes les valeurs des cellules comprises entre A1 et A10, plus celle de B1
+<code>=MOYENNE(A1:A10)</code> | Calcule la moyenne des valeurs des cellules comprises entre A1 et A10
+<code>'=E7/E2</code> | Affiche « =E7/E2 » en texte dans la cellule sans produire le calcul
+<code>$K1</code> | Fixe la colonne K
+<code>K$1</code> | Fixe la ligne 1
+<code>$K$1</code> | Fixe la cellule K1 
 
 Une fois la formule entrée dans une cellule, on peut la **tirer** en cliquant sur le carré en bas à gauche de la cellule pour appliquer la formule sur toute une colonne/ligne. La formule sera répétée automatiquement, mais les cellules concernées par le calcul vont changer en fonction de l'incrémentation.
 
