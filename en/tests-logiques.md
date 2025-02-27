@@ -1,5 +1,7 @@
 # Logic tests 
 
+* [FRENCH VERSION](../fr/tests-logiques.md)
+  
 ## ⚔️ =IF( function 
 
 It is used to perform a logic test. If the test is successful, the cell will display a predefined value; if the test fails, the cell will display another value.
