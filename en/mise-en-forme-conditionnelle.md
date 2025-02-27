@@ -1,5 +1,7 @@
 # Customized conditional formatting
 
+* [FRENCH VERSION](../fr/mise-en-forme-conditionnelle.md)
+  
 ## ⚔️ Basics
 
 ![Conditional formatting](../images/mise_en_forme_conditionnelle.jpg)
