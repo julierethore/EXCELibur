@@ -1,5 +1,7 @@
 # First steps
 
+* [FRENCH VERSION](../fr/premiers-pas.md)
+  
 ## ⚔️ Some basic formulations 
 
 Formula | Result :--------:|--------- A:A | All cells in column A 1:1 | All cells in row 1 A1 | The cell at the intersection of column 1 and row 1 AI:A10 | All cells between A1 and A10 B1;B3;B8 | Only cells B1, B3 and B8 =C1+C6 | Adds the value of C1 and the value of C6 =D4\*D5 | Multiplies the value of D4 by the value of D5 =E7/E2 | Divides the value of E7 by the value of E2 =F5^2 | Calculates the value of F5 squared =SUM(A1:A10) | Adds all cell values between A1 and A10 =SOMM(A1:A10;B1) | Adds all cell values between A1 and A10, plus B1 =MOYENNE(A1:A10) | Calculates average of cell values between A1 and A10 '=E7/E2 | Displays "=E7/E2" as text in cell without producing calculation $K1 | Sets column K K$1 | Sets row 1 $K$1 | Sets cell K1 
