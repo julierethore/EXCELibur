@@ -2,7 +2,7 @@
 
 ## ⚔️ Basics
 
-![Conditional formatting](/images/mise_en_forme_conditionnelle.jpg)
+![Conditional formatting](../images/mise_en_forme_conditionnelle.jpg)
 
 Conditional formatting is used to highlight differences between values in a table. It is important to select the range to be formatted before setting parameters.
 
