@@ -1,5 +1,7 @@
 # Other functions
 
+* [FRENCH VERSION](../fr/autres-fonctions.md)
+  
 ## ⚔️ Reminder for calculating percentages
 
 Calculating a percentage is different from calculating a reduction or an increase.
