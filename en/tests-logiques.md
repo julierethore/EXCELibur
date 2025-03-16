@@ -1,6 +1,6 @@
 # Logic tests 
 
-* [FRENCH VERSION](../fr/tests-logiques.md)
+* [VERSION FRANÇAISE](../fr/tests-logiques.md)
   
 ## ⚔️ =IF( function 
 
