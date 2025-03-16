@@ -1,5 +1,7 @@
 # Les tests logiques 
 
+* [ENGLISH VERSION](../en/tests-logiques.md)
+  
 ## ⚔️ La fonction =SI( 
 
 Elle permet d'effectuer un test logique. Si le test est vérifié, la cellule affichera une valeur prédéfinie ; si le test échoue, la cellule affichera une autre valeur.
