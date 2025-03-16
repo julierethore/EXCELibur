@@ -1,6 +1,6 @@
 # Customized conditional formatting
 
-* [FRENCH VERSION](../fr/mise-en-forme-conditionnelle.md)
+* [VERSION FRANÇAISE](../fr/mise-en-forme-conditionnelle.md)
   
 ## ⚔️ Basics
 
