@@ -59,12 +59,16 @@ The two important acronyms to remember when using this formula are <code>#</code
 
 Here are a few simple examples:
 
-~~~ =TEXT(A1; "0000") ~~~
+~~~
+=TEXT(A1; "0000")
+~~~
 
 This formula converts the value in cell A1 into a text consisting of at least 4 whole numbers. <br>
 If A1 = 9 then the function will display <code>0009</code>. But if A1 = 42.1 then it will display <code>0042</code>.
 
-~~~ =TEXT(A1; "#,00") ~~~
+~~~
+=TEXT(A1; "#,00")
+~~~
 
 This formula converts the value in cell A1 into text containing a number with at least two decimal places. <br>
 If A1 = 7.8 then the function will display <code>7.80</code>. But if A1 = 0.6789 then it will display <code>.68</code>.
@@ -105,7 +109,9 @@ This function allows you to assemble in the same cell a text composed of several
 
 In this example, we wanted to establish an identification code for each customer in column D, based on their registration date and according to a specific text format: <code>NAME\_YEARMONTH</code>. We've used a TEXT() function to ensure that the month is always displayed in two digits.
 
-~~~ =CONCATENER(B2;"\_";YEAR(C2);TEXT(MONTH(C2); "00")) ~~~
+~~~
+=CONCATENER(B2;"\_";YEAR(C2);TEXT(MONTH(C2); "00"))
+~~~
 
 * * *
 
