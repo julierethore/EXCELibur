@@ -10,24 +10,28 @@ It is used to perform a logic test. If the test is successful, the cell will dis
 
 
 
-<center> <img width=200 src="images/fonction_si.JPG" alt="Example 1" /> </center>
+<center> <img width=200 src="../images/fonction_si.JPG" alt="Example 1" /> </center>
 
 <center> <i>Example 1</i> </center>
 
 For example, to check whether the cells in column A are positive or negative, enter the first cell in column B :
 
-~~~ =IF(A1>0; "Positive"; "Negative") ~~~
+~~~
+=IF(A1>0; "Positive"; "Negative")
+~~~
 
 Then "drag" the cell so that the formula is applied to all the cells in column B.
 
 
-<center> <img width=200 src="images/moyenne.JPG" alt="Example 2" /> </center>
+<center> <img width=200 src="../images/moyenne.JPG" alt="Example 2" /> </center>
 
 <center> <i>Example 2</i> </center>
 
 I want to know if my semester is validated. To do this, I calculate my average: it's my logical test. Two results are possible: either I have the average, so the test passes and I validate my semester (this is the value if TRUE), or I don't have the average, so the test fails and I don't validate my semester (this is the value if FALSE).
 
-~~~ =IFAVERAGE(A1;A10)>=10; "Semester validated"; "Semester not validated") ~~~
+~~~
+=IFAVERAGE(A1;A10)>=10; "Semester validated"; "Semester not validated")
+~~~
 
 * * *
 
@@ -40,17 +44,21 @@ These functions return "TRUE" or "FALSE" depending on the conditions met. For th
 
 
 
-<center> <img width=500 src="images/fonction_etou.JPG" alt="Example 2" /> </center>
+<center> <img width=500 src="../images/fonction_etou.JPG" alt="Example 2" /> </center>
 
 <center> <i>Example 3</i> </center>
 
 For example, in a list of customers, we want to check who has placed at least 10 orders in column A, <b>and</b> who has spent more than €500 in column B, <b>and</b> who has validated their registration in column C.
 
-~~~ =AND(A1>=10;B1>500;C1="YES") ~~~
+~~~
+=AND(A1>=10;B1>500;C1="YES")
+~~~
 
 If you want to check which customers have not validated any of these conditions, use this formula:
 
-~~~ =OR(A1<10;B1<500;C1="NO") ~~~
+~~~
+=OR(A1<10;B1<500;C1="NO")
+~~~
 
 
 
@@ -62,11 +70,15 @@ AND/OR formulas can be nested within an IF function to create more complex tests
 
 In example 3, if we want only customers who have met <b>all</b> the conditions to receive a 25% discount on their order in column E, we enter the following formula:
 
-~~~ =IF(AND(A1>=10;B1>500;C1="YES");E1\*0.75;E1) ~~~
+~~~
+=IF(AND(A1>=10;B1>500;C1="YES");E1\*0.75;E1)
+~~~
 
 If we want all customers meeting <b>at least one</b> condition to receive a 10% discount, we use this formula:
 
-~~~ =IF(OR(A1<10;B1<500;C1="NO");E1;E1\*0,90) ~~~
+~~~
+=IF(OR(A1<10;B1<500;C1="NO");E1;E1\*0,90)
+~~~
 
 
 * * *
@@ -83,7 +95,9 @@ Here, we perform a first logical test (X). If true, a second logical test (Y) is
 
 In example 1, if we want registered customers to have a 25% discount on their order in column E if they have spent more than 500€ and a 15% discount otherwise, and if we want non-registered customers to have a 5% discount whatever the amount they have spent, we write:
 
-~~~ =IF(C1="YES";IF(B1>500;E10;75;E10,85);E1\*0,95) ~~~
+~~~
+=IF(C1="YES";IF(B1>500;E10;75;E10,85);E1\*0,95)
+~~~
 
 
 
@@ -110,7 +124,9 @@ There's another IF function, which tests the value of a particular cell. It work
 
 For example, we have a list of athletes in column A and we want to identify the winners of the competition:
 
-~~~ =IF.MULTIPLE(A1;1; "Gold medal";2; "Silver medal";3; "Bronze medal"; "Off podium") ~~~
+~~~
+=IF.MULTIPLE(A1;1; "Gold medal";2; "Silver medal";3; "Bronze medal"; "Off podium")
+~~~
 
 
 * * *
