@@ -101,7 +101,7 @@ These functions are used to round comma-delimited numbers. You can choose to sys
 
 This function allows you to assemble in the same cell a text composed of several elements, such as the value of a cell, the result of a calculation, or a text element.
 
-<center> <img width=500 src="images/concat.JPG" alt="Example 1" /> </center>
+<center> <img width=500 src="../images/concat.JPG" alt="Example 1" /> </center>
 
 In this example, we wanted to establish an identification code for each customer in column D, based on their registration date and according to a specific text format: <code>NAME\_YEARMONTH</code>. We've used a TEXT() function to ensure that the month is always displayed in two digits.
 
