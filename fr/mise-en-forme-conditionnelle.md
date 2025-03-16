@@ -4,7 +4,7 @@
   
 ## ⚔️ Rappel des bases
 
-![Mise en forme conditionnelle](/images/mise_en_forme_conditionnelle.jpg)
+![Mise en forme conditionnelle](../images/mise_en_forme_conditionnelle.jpg)
 
 La mise en forme conditionnelle permet de mettre en évidence les différences de valeurs dans un tableau. Il est important de bien sélectionner la plage sur laquelle s'appliquera la mise en forme avant de la paramétrer.
 
