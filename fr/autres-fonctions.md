@@ -1,6 +1,6 @@
 # Autres fonctions
 
-* [VERSION ANGLAISE](../en/autres-fonctions.md)
+* [ENGLISH VERSION](../en/autres-fonctions.md)
   
 ## ⚔️ Rappel pour le calcul des pourcentages
 
