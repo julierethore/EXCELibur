@@ -2,7 +2,7 @@
 
 ## ⚔️ Plan du site
 
-* [VERSION ANGLAISE](../en/index.md)
+* [ENGLISH VERSION](../en/index.md)
 1. [Premiers pas](/premiers-pas.md)
 2. [Tests logiques](/tests-logiques.md)
 3. [Mise en forme conditionnelle](/mise-en-forme-conditionnelle.md)
