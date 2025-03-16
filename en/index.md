@@ -2,7 +2,7 @@
 
 ## ⚔️ Site map
 
-* [FRENCH VERSION](../fr/index.md)
+* [VERSION FRANÇAISE](../fr/index.md)
   
 1. [First steps](/premiers-pas.md)
 2. [Logic tests](/tests-logiques.md)
