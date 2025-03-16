@@ -1,6 +1,6 @@
 # Other functions
 
-* [FRENCH VERSION](../fr/autres-fonctions.md)
+* [VERSION FRANÇAISE](../fr/autres-fonctions.md)
   
 ## ⚔️ Reminder for calculating percentages
 
