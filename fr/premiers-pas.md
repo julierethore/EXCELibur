@@ -64,7 +64,7 @@ Qu'elle soit tirée horizontalement ou verticalement, cette formule calculera to
 
 Un fichier Excel s’appelle un classeur, et il peut être composé de plusieurs feuilles, ce qui facilite la navigation entre différents tableaux. On peut ajouter des feuilles sur la barre de navigation, en bas. Il est aussi possible de les déplacer pour changer leur ordre, ou de les renommer pour s’y retrouver plus facilement.
 
-![Feuilles](/images/feuilles.JPG)
+![Feuilles](../images/feuilles.JPG)
 
 
 * * *
@@ -76,7 +76,7 @@ On peut aligner le texte à gauche, à droite, ou au milieu ; en haut, en bas ou
 
 On peut orienter le texte dans différentes directions, et paramétrer un retour à la ligne automatique.
 
-![Alignement](/images/alignement.jpg)
+![Alignement](../images/alignement.jpg)
 
 
 * * *
@@ -84,9 +84,9 @@ On peut orienter le texte dans différentes directions, et paramétrer un retour
 
 La partie *Nombre* permet de configurer le format de nombre : ci-dessous, la cellule sélectionnée contient seulement « 1969 » et ce nombre s'affichera différemment en fonction du format choisi.
 
-![Nombre](/images/nombre.jpg)
+![Nombre](../images/nombre.jpg)
 
-<p> <img align=left width=200 src="images/nombre1.jpg" alt="<- ,OO" /> 
+<p> <img align=left width=200 src="../images/nombre1.jpg" alt="<- ,OO" /> 
   On peut ajuster la quantité de nombres après la virgule à afficher. <br>
   Par exemple, si on entre dans une cellule « =10/3 », elle s'affiche normalement « 3,3333333 », mais on peut la paramétrer pour qu'elle affiche seulement deux chiffres après la virgule : « 3,33 ». </p> 
 
@@ -95,7 +95,7 @@ La partie *Nombre* permet de configurer le format de nombre : ci-dessous, la cel
 * * *
 
 
-![Effacer](/images/effacer.jpg)
+![Effacer](../images/effacer.jpg)
 
 Dans la partie *Édition*, on peut :
 
@@ -109,11 +109,11 @@ Dans la partie *Édition*, on peut :
 
 ### Trier et filtrer
 
-![Tri personnalisé](/images/tri.jpg)
+![Tri personnalisé](../images/tri.jpg)
 
 Pour trier un tableau, bien sélectionner toutes les cellules concernées, afin qu’une colonne ne soit pas triée toute seule sans être accompagnée du reste des informations de chaque ligne. Sur cet exemple, la sélection de cellules est grisée et bordée de vert, et les lignes et colonnes concernées sont foncées.
 
-![Sélection filtre](/images/selection_filtre.jpg)
+![Sélection filtre](../images/selection_filtre.jpg)
 
 Dans « **Tri personnalisé** », on peut paramétrer les différents niveaux de tri, utiles si certaines valeurs sont identiques dans plusieurs cellules de la même colonne. On peut choisir la colonne, le critère et l’ordre selon lesquels trier le tableau (ci-dessus : tri selon la colonne B, chronologiquement, par ordre croissant).
 
