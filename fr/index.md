@@ -9,7 +9,6 @@
 4. [Autres fonctions](/autres-fonctions.md)
 5. ~~Graphiques~~ (non disponible)
 6. ~~Tableau croisé dynamique~~ (non disponible)
-* [Site HTML](/index-html.md)
 
 
 ## ⚔️ Késako ?
