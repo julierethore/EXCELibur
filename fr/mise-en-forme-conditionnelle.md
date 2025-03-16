@@ -1,6 +1,6 @@
 # La mise en forme conditionnelle personnalisée
 
-* [VERSION ANGLAISE](../en/mise-en-forme-conditionnelle.md)
+* [ENGLISH VERSION](../en/mise-en-forme-conditionnelle.md)
   
 ## ⚔️ Rappel des bases
 
