@@ -1,6 +1,6 @@
 # First steps
 
-* [FRENCH VERSION](../fr/premiers-pas.md)
+* [VERSION FRANÇAISE](../fr/premiers-pas.md)
   
 ## ⚔️ Some basic formulations 
 
