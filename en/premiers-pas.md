@@ -9,7 +9,8 @@ Formula | Result
 A:A | All cells in column A 
 1:1 | All cells in row 1 
 A1 | The cell at the intersection of column 1 and row 1 
-AI:A10 | All cells between A1 and A10 B1;B3;B8 | Only cells B1, B3 and B8 
+AI:A10 | All cells between A1 and A10 
+B1;B3;B8 | Only cells B1, B3 and B8 
 =C1+C6 | Adds the value of C1 and the value of C6 
 =D4\*D5 | Multiplies the value of D4 by the value of D5 
 =E7/E2 | Divides the value of E7 by the value of E2 
