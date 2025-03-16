@@ -1,5 +1,7 @@
 # Autres fonctions
 
+* [VERSION ANGLAISE](../en/autres-fonctions.md)
+  
 ## ⚔️ Rappel pour le calcul des pourcentages
 
 Le calcul d'un pourcentage est différent du calcul d'une réduction ou d'une augmentation.
