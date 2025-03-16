@@ -83,7 +83,9 @@ If we want all customers meeting <b>at least one</b> condition to receive a 10% 
 
 * * *
 
-<center> <b>If you want the logic test to have three or more possible results, there are several solutions: </b> </center> </p> <br>
+<br>
+<center> <b>If you want the logic test to have three or more possible results, there are several solutions: </b> </center> 
+<br>
 
 ## ⚔️ =IF( nested function
 
