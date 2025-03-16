@@ -85,7 +85,9 @@ Si on veut que tous les clients remplissant <b>au moins une</b> condition aient 
 
 * * *
 
-<center> <b>Si on veut que le test logique ait trois possibilités de résultats ou plus, il y a plusieurs solutions : </b> </center> </p> <br>
+<br>
+<center> <b>Si on veut que le test logique ait trois possibilités de résultats ou plus, il y a plusieurs solutions : </b> </center>
+<br>
 
 ## ⚔️ La fonction =SI( imbriquée
 
