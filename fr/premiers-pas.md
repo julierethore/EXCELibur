@@ -1,5 +1,7 @@
 # Premiers pas
 
+* [ENGLISH VERSION](../en/premiers-pas.md)
+  
 ## ⚔️ Quelques formulations basiques 
 
 Formule | Résultat
