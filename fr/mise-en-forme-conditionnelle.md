@@ -1,5 +1,7 @@
 # La mise en forme conditionnelle personnalisée
 
+* [VERSION ANGLAISE](../en/mise-en-forme-conditionnelle.md)
+  
 ## ⚔️ Rappel des bases
 
 ![Mise en forme conditionnelle](/images/mise_en_forme_conditionnelle.jpg)
