@@ -10,7 +10,7 @@ Elle permet d'effectuer un test logique. Si le test est vérifié, la cellule af
 
 
 
-<center> <img width=200 src="images/fonction_si.JPG" alt="Exemple 1" /> </center>
+<center> <img width=200 src="../images/fonction_si.JPG" alt="Exemple 1" /> </center>
 
 <center> <i>Exemple 1</i> </center>
 
@@ -23,7 +23,7 @@ Par exemple, pour vérifier si les cellules de la colonne A sont positives ou n�
 Il faudra ensuite "tirer" la cellule pour que la formule s'applique sur toutes les cellules de la colonne B.
 
 
-<center> <img width=200 src="images/moyenne.JPG" alt="Exemple 2" /> </center>
+<center> <img width=200 src="../images/moyenne.JPG" alt="Exemple 2" /> </center>
 
 <center> <i>Exemple 2</i> </center>
 
@@ -45,7 +45,7 @@ Ces fonctions renvoient "VRAI" ou "FAUX" selon les conditions remplies. Pour la 
 
 
 
-<center> <img width=500 src="images/fonction_etou.JPG" alt="Exemple 2" /> </center>
+<center> <img width=500 src="../images/fonction_etou.JPG" alt="Exemple 2" /> </center>
 
 <center> <i>Exemple 3</i> </center>
 
